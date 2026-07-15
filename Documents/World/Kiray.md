@@ -145,9 +145,6 @@ Life on Kiray transports oxygen using copper rather than iron. The planet's copp
 
 Copper-based oxygen carriers are naturally less efficient than iron-based ones, so Kiray's larger, more active animals evolved several adaptations to compensate; including a more efficient version of hemocyanin, circulatory optimizations, and respiratory optimizations. Kiray's oxygen-rich, high-pressure atmosphere also supports all of this by making oxygen generally more available.
 
-![[assets/BloodColors.png]]
-*Blood Colors of Kirian Organisms*
-
 ### The Long Day
 
 Kiray's day is its orbit. One turn around Kete takes 86.5 hours, and because Kiray is also travelling around Skyris as it goes, sunrise to sunrise runs a little longer still, closer to 88 hours. Every point on the surface therefore receives roughly forty-four hours of unbroken daylight followed by roughly forty-four hours of night. Because the moon is locked to Kete rather than to Skyris, this cycle runs everywhere, there is no permanent day side and no permanent night side, and the sun rises and sets across the whole planet, just very slowly. With almost no axial tilt to create seasons, this long cycle, rather than the 204-day year, is the dominant rhythm in Kirian biology.
