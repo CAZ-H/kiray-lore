@@ -1,4 +1,6 @@
-# Skiedon
+---
+title: Skiedon
+---
 
 The Skiedon is a sapient, arboreal reptiloid species that evolved in the canopy biomes of Kiray. Skiedons are a compact, muscular species adapted for vertical movement within dense, multi-tiered forest environments. Their anatomy is specialized for stability, dexterity, and sensory breadth, and is well-suited for navigating narrow, unstable terrain, high above the ground.
 

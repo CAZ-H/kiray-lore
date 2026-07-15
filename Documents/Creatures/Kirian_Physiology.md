@@ -1,4 +1,6 @@
-# Kirian Physiology
+---
+title: Kirian Physiology
+---
 
 This document outlines physiological traits that are common or widespread among Kirian vertebrate fauna. Species-specific adaptations are documented on individual species pages; this page covers the shared ancestral patterns from which those adaptations diverge.
 

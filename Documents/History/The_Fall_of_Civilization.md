@@ -1,4 +1,8 @@
-# The Fall of Civilization — A Brief History
+---
+title: The Fall of Civilization
+---
+
+# A Brief History
 
 When the Zorn arrived, they came with an ultimatum. Impressed by the vast industrial and technological success of Skiedonic civilization, and seeing an opportunity to further their own people, they demanded that Kiray surrender a portion of its population to be "put to work." In reality, this meant 80% of the global population. Kiray was given half a rotation about the sun to decide who would be sacrificed. The Zorn delivered their message with overwhelming displays of power, broadcasting their demands across the planet before departing for a neighboring star system.
 

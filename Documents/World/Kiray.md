@@ -1,48 +1,24 @@
-# Kiray
+---
+title: Kiray
+---
 
 Kiray is a tropical moon of a purple gas giant called Kete. It is capable of sustaining life, and is inhabited by many life-forms. It was formerly host to a primary civilized species with a sprawling global presence.
 
 ## Location and Orbit
 
-Kiray orbits Kete, a large purple-tinted gas giant, which is the second body in the solar system of the star Skyris.
+Kiray orbits [[Kete]], a large purple-tinted gas giant, which is the second body in the solar system of the star [[Skyris]].
 
-*Map of The Skyris Solar System (Possibly Outdated)*
+![[NEED_UPDATE_SkyrisSystem.png]]
+*Map of The Skyris Solar System (Needs Update)*
 
-### The Star - Skyris
+## Kiray
 
-Skyris is a K1V type star that is 80% of the mass of Sol, and about 75% of its radius. The temperature of Skyris is about 5155 K, and it is approximately 5.8 billion years old. Because it is cooler and smaller than the Sun, Skyris burns slowly and steadily, giving it a lifespan far longer than a Sol-type star and a calmer output of harmful radiation. Its light is slightly red-shifted, appearing warm white to pale orange. The habitable zone of Skyris is within 0.57 - 0.82 AU. The luminosity of Skyris is about 36% of Sol.
-
-| Parameter | Measured Value | % of Sol | Sol |
-|---|---|---|---|
-| Stellar Classification | K1V | - | G2V |
-| Age | 5.8 billion years | 126% | 4.6 billion years |
-| Radius | 523,000 km | 75% | 696,340 km |
-| Mass | 1.591 × 10^30 kg | 80% | 1.989 × 10^30 kg |
-| Temperature | 5155 K | 89% | 5,772 K |
-| Luminosity | 1.38 × 10^26 W | 36% | 3.86 × 10^26 W |
-| Habitable Zone | 0.57 - 0.82 AU | - | 0.95 - 1.37 AU |
-
-### The Parent Body - Kete
-
-Kete is a large purple gas giant of approximately 350 Earth masses, and is 75,000 km in radius, which is a little larger than Jupiter. It resides in the solar system at around 0.63 AU, placing Kiray comfortably within the habitable zone. The Hill sphere of Kete is approximately 0.04 AU or 6 million km, capable of capturing and holding Kiray stable as a moon while staying within the habitable zone. Kete experiences a minor orbital eccentricity of 0.023.
-
-Kete's distinct purple coloration arises from photochemistry in its upper atmosphere. Long-term ultraviolet exposure breaks down trace hydrocarbons and sulfur compounds into a fine, high-altitude organic haze. These haze particles absorb yellow and green wavelengths while reflecting blue and violet light. Kete's rotation shears its cloud layers into alternating belts: higher, cooler belts are brighter and lean bluish-violet, while lower, warmer belts absorb more light and appear darker, in shades of indigo, wine-red, and deep purple. Together these give Kete its complex banding and royal purple color.
-
-Kete hosts a large family of moons. Kiray is the largest, but several smaller irregular satellites orbit both inside and outside its path. The combined gravitational tugging of these lesser moons keeps Kiray's orbit from settling into a perfect circle, which in turn sustains the gentle tidal flexing that supplements the moon's own internal heat. Very long ago, it is theorized that Kiray experienced multiple impacts from the smallest of these satellites, and what remains now appears to have been stable since before life arose on Kiray.
-
-| Parameter | Measured Value |
-|---|---|
-| Radius | 75,000 km |
-| Mass | 2.09 × 10^27 kg / 350 M⊕ |
-| Location | 0.63 AU |
-| Orbital Eccentricity | 0.023 |
-| Hill Sphere | 0.04 AU / 6 million km |
-
-### The Planet - Kiray
-
-Kiray is Kete's largest moon, and also a life-sustaining, rich world inhabited by many life-forms. It is approximately 90% of the radius of Earth, and about 80% of its mass. Because Kiray is dense, with a large iron core, its surface gravity is very close to Earth's, at about 99%.
+Kiray is [[Kete|Kete's]] largest moon, and also a life-sustaining, rich world inhabited by many life-forms. It is approximately 90% of the radius of Earth, and about 80% of its mass. Because Kiray is dense, with a large iron core, its surface gravity is very close to Earth's, at about 99%.
 
 To the naked eye, sunlight on Kiray appears warm white to pale orange.
+
+![[NEED_UPDATE_KirayOrbit.png|300]]
+*Map of Kiray orbiting Kete (Needs Update)*
 
 | Parameter | Measured Value | % of Earth | Earth |
 |---|---|---|---|
@@ -54,9 +30,9 @@ To the naked eye, sunlight on Kiray appears warm white to pale orange.
 | Year | 204 days | 56% | 365 days |
 | Orbital Eccentricity (around Kete) | 0.006 | - | - |
 
-## Interaction with Kete
+### Interaction with Kete
 
-Kiray orbits Kete at a distance of around 700,000 kilometers in a prograde direction, far enough that Kete's gravity does not destroy Kiray's oceans, but close enough to dominate its sky and its tides. At this distance, Kiray completes one orbit of Kete about every 86.5 hours. Because Kiray is tidally locked to Kete, this orbit is also its day: one full rotation takes 86.5 hours, or roughly three and a half Earth days, and one hemisphere permanently faces Kete while the other never sees it. At 0.63 AU, a year on Kiray is approximately 204 Earth days, or about 57 Kiray days.
+Kiray orbits [[Kete]] at a distance of around 700,000 kilometers in a prograde direction, far enough that Kete's gravity does not destroy Kiray's oceans, but close enough to dominate its sky and its tides. At this distance, Kiray completes one orbit of Kete about every 86.5 hours. Because Kiray is tidally locked to Kete, this orbit is also its day: one full rotation takes 86.5 hours, or roughly three and a half Earth days, and one hemisphere permanently faces Kete while the other never sees it. At 0.63 AU, a year on Kiray is approximately 204 Earth days, or about 57 Kiray days.
 
 On the Kete-facing hemisphere, Kete hangs fixed in the sky, appearing roughly 20 times larger than Earth's moon, or about 10-12 degrees wide. The night here is never fully dark, sunlight reflecting off Kete's clouds casts a soft orange and purple glow across the sky. Tides on this hemisphere are also stronger, held in a permanent bulge beneath Kete.
 
@@ -70,6 +46,9 @@ Kiray has almost no axial tilt, so it does not experience strong seasons. It doe
 
 ## Surface and Geology
 
+![[NEED_UPDATE_KirayMap.png]]
+*Landmass Map of Kiray (Needs Update)*
+
 ### Core and Mantle
 
 Kiray owes much of its habitability to its interior. It has a large, dense, iron-nickel core, proportionally similar to Earth's, alloyed with lighter elements such as silicon and sulfur. This core drives a strong, long-lived magnetic field, and feeds steady heat into the mantle above. The core is approximately 55% of the planet's radius, roughly 3,150 km.
@@ -81,8 +60,6 @@ This gentle volcanism shapes the whole surface of Kiray. It builds long-lived mi
 The warm, slow-cooling interior also gives Kiray a thinner crust broken into many small, fast-moving tectonic plates. These produce shorter mountains, wide and shallow seas ringed by huge continental shelves, and extensive archipelagos rather than a few large deep-ocean basins.
 
 Of important note, Kiray's upper crust is unusually rich in copper. This traces back to an ancient impact early in the planet's history, when a large, copper-bearing asteroid struck and broke apart, seeding the young crust with concentrated copper deposits. On its own, a single impact would have dispersed or sunk deep into the core, but on Kiray it never did. Persistent volcanism and hydrothermal circulation keep re-injecting copper into the crust and oceans, and, more importantly, life itself developed at the right time to use and recirculate it. Copper became a core ingredient in Kiray's biology, so it is continuously drawn up, used, and recycled through living tissue rather than being buried and lost. The result is a surface and seas persistently saturated with bioavailable copper, which shaped the entire course of life on the planet.
-
-*Map of Kiray's Landmasses (Outdated Image is Placeholder)*
 
 ### Tidal and Geological Cycles
 

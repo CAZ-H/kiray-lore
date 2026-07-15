@@ -1,4 +1,6 @@
-# An Overview of Skiedonic Civilization
+---
+title: Skiedonic Civilization
+---
 
 ## The Greater Skiedonic Nation
 

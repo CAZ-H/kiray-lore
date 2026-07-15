@@ -1,6 +1,8 @@
-# The Zorn
-
 ---
+title: Zorn
+---
+
+The Zorn are not native to Kiray. See [[The_Fall_of_Civilization|The Fall Of Civilization]] for a record of The Zorn's involvement in the destruction of [[An_Overview_of_Skiedonic_Civilization|Skiedonic Civilization]].
 
 # Morphology
 

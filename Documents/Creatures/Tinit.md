@@ -1,4 +1,7 @@
-# Tinit
+---
+title: Tinit
+---
+
 
 Tinit is a common name for a family of horizontal bipedal scavengers, as well as the name for the most common species of this family. These creatures are notable for their adaptable diet and widespread distribution.
 
