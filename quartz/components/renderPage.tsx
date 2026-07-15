@@ -266,10 +266,14 @@ export function renderPage(
 
   const lang = componentData.fileData.frontmatter?.lang ?? cfg.locale?.split("-")[0] ?? "en"
   const direction = i18n(cfg.locale).direction ?? "ltr"
+  // Plugin runtime scripts resolve links via document.body.dataset.basepath (see
+  // @quartz-community/utils resolveBasePath), which is required when hosting under a
+  // subpath (e.g. GitHub Pages project sites). Derive it from the baseUrl subpath.
+  const basePath = cfg.baseUrl?.includes("/") ? "/" + cfg.baseUrl.split("/").slice(1).join("/") : ""
   const doc = (
     <html lang={lang} dir={direction}>
       <Head {...componentData} />
-      <body data-slug={slug}>
+      <body data-slug={slug} data-basepath={basePath}>
         {frame.css && <style dangerouslySetInnerHTML={{ __html: frame.css }} />}
         <div id="quartz-root" class="page" data-frame={frame.name}>
           <Body {...componentData}>

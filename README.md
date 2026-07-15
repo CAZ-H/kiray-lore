@@ -31,6 +31,8 @@ GitHub Pages must be set to deploy from **GitHub Actions** (repo Settings → Pa
 
 `quartz/cli/plugin-git-handlers.js` contains a fix to quote paths passed to `git clone`, so `npx quartz plugin install` works when the repo has been cloned to a directory whose path contains spaces. If Quartz in this project is updated, plugin install should be double checked to confirm it still works, but Quartz upstream may have fixed it by then.
 
+`quartz/components/renderPage.tsx` contains a fix that adds a `data-basepath` attribute to the `<body>` tag, derived from the subpath of `baseUrl` in `quartz.config.yaml` (`/kiray-lore` for this repo). The explorer, graph, and search plugins build their link URLs at runtime by reading `document.body.dataset.basepath` (via `resolveBasePath` in `@quartz-community/utils`), but as of July 2026 no version of the Quartz core actually sets that attribute — so on a GitHub Pages *project* site (served under a subpath rather than at the domain root), every explorer/graph/search link pointed to the wrong URL and 404'd. If Quartz in this project is updated, check whether upstream has started emitting `data-basepath` (or an equivalent) before discarding this patch; without it, sidebar navigation breaks on the deployed site while still working in local previews served from the root.
+
 ### AI Usage
 
 - AI has **not** been used to write lore documents.
