@@ -145,6 +145,7 @@ Life on Kiray transports oxygen using copper rather than iron. The planet's copp
 
 Copper-based oxygen carriers are naturally less efficient than iron-based ones, so Kiray's larger, more active animals evolved several adaptations to compensate; including a more efficient version of hemocyanin, circulatory optimizations, and respiratory optimizations. Kiray's oxygen-rich, high-pressure atmosphere also supports all of this by making oxygen generally more available.
 
+![[assets/BloodColors.png]]
 *Blood Colors of Kirian Organisms*
 
 ### The Long Day
