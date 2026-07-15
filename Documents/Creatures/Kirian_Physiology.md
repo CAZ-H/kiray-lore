@@ -1,0 +1,131 @@
+# Kirian Physiology
+
+This document outlines physiological traits that are common or widespread among Kirian vertebrate fauna. Species-specific adaptations are documented on individual species pages; this page covers the shared ancestral patterns from which those adaptations diverge.
+
+---
+
+## Body Structuring
+
+Kirian vertebrates fall into one of two fundamental body structurings that differ in how organs and musculature are organized along the spine.
+
+**Continuous** body structuring is the more simple of the two. The body is a single undivided structure, with organs distributed along its length and musculature wrapped continuously around them. This is the more common structuring and is broadly equivalent to the vertebrate body plan found on Earth.
+
+**Tripartite** body structuring divides the body into three distinct segments (analogous to a head, thorax, and abdomen) separated by narrowed junctions. While superficially resembling an insect, tripartite Kirian animals are vertebrates, with an internal skeleton running the full length of the body. The division is thought to have arisen early in the evolutionary history where organs migrated rearward into a dedicated abdominal compartment, freeing the thorax to be dominated by musculature and limb attachment. This organization allowed for denser, more powerful limb musculature than is typically possible in continuous animals of comparable size. The narrowed junctions between segments are structurally reinforced by the skeleton but remain relative points of vulnerability.
+
+Both structurings are applicable to all of the body plans described below, with the exception of the tripod body plan. These body plans are thought to have developed first with a continuous structure, with the tripartite structure developing later, hence why their traits are expressed across species of both kinds.
+
+---
+
+## Common Body Plans
+
+Kirian vertebrates exhibit several recurring body plans. The most widespread is hexapodal (six limbs arranged in bilateral symmetry along a segmented spine) in various orientations, but limbless forms and forms with fewer limbs also exist. Tails are present in the majority of species and serve a wide variety of functions, including balance, communication, and in some species, grasping, propulsion, or locomotion. Though a hexapodal configuation is the most widespread, there are many species where one pair of limbs has become vestigial or has been reduced or repurposed significantly.
+
+### Horizontal Hexapod
+
+The most common hexapod arrangement is a horizontal body posture with all six limbs used for locomotion, the spine roughly parallel to the ground, with the head carried at the front and the tail extending behind for counterbalance. This plan is common across predator, prey, and scavenger niches.
+
+In some species, the foremost pair of limbs has shifted away from a purely locomotory role toward grasping and manipulation, becoming shorter and more dexterous while the remaining four limbs bear the body's weight. This is less common, but appears across several unrelated species, suggesting it is an easy evolutionary transition.
+
+A distinct foot type is common across horizontal hexapod species in which the foot bears discrete toes and a broad pad of dense, tough connective tissue on the sole. This group is referred to as **Kirian ungulates**, a classification that describes this pad-and-toe arrangement.
+
+### Vertical Hexapod
+
+This hexapod arrangement orients the spine more vertically, with two rear limbs bearing the body's weight in a bipedal stance. One or two pairs of forelimbs are freed entirely for manipulation. This plan trades speed and stability for greater reach and dexterity, and is most common in arboreal species where vertical movement and precise limb placement are critical.
+
+It is common for one forelimb pair to be significantly more developed than the other. Fully functional primary arms paired with a reduced or vestigial secondary pair is a typical expression of this plan. The secondary pair may retain limited utility for carrying or bracing, or may be reduced to near-functionlessness while still being anatomically present.
+
+Digitigrade foot posture, in which the animal walks on the toes rather than the full sole, is common in this group. It provides both the reach needed for climbing and the burst propulsion favored by arboreal species navigating vertical terrain.
+
+### Pure Biped
+
+Some species have reduced or lost their forelimbs entirely, retaining only the rear two legs for locomotion. These species carry a horizontal body posture with the spine roughly parallel to the ground, the head forward, and the tail behind, but with no functional arms or midlegs. Balance is maintained by the tail, which in most species is relatively long and stiff. This plan is common among fast-moving ground-level foragers and scavengers, where speed and low center of gravity are advantageous and forelimb manipulation is less critical.
+
+Like horizontal hexapods, the evolutionary parent of this body plan, pure bipeds typically bear Kirian ungulate-style feet, with discrete toes and a tough sole pad.
+
+### Serpentine
+
+Limbless body plans have evolved across two independent lineages, both from the horizontal hexapod plan where all limbs became vestigial, and from an inceptual lineage. These species have an elongated, highly flexible spine and move via muscular undulation of the body against the ground, through water, or through dense vegetation. The loss of limbs in these species is accompanied by a significant elongation of the body and a corresponding increase in the number of vertebrae in the spine. Tails are always present but not clearly delimited from the rest of the body. Serpentine species tend to be ambush predators or burrowers.
+
+### Genetically Engineered Tripod
+
+A body plan not found in nature, developed by Skiedonic genetic engineers for use in companion and decorative animals. It did not arise from any natural lineage and represents a deliberate departure from the constraints of natural selection. The goal is thought to be an aesthetically novel form optimized for small living spaces, docility, and visual interest, rather than survival.
+
+The defining feature of this plan is the fusion and centralization of the hindlimbs into a single, medially-placed leg. Where natural hexapods and bipeds carry two symmetrical rear legs, designer animals bear one, positioned along the body's centerline, usually with an outward-facing knee and ankle in the reverse direction, closely resembling the joint configuration of a human leg. This arrangement stores and releases energy efficiently through the tendons across both joints, making hopping the natural and energy-efficient gait. The middle limb pair is eliminated entirely. The two remaining forelimbs are retained and used primarily for balance, bracing the animal in a stable tripod posture when at rest and providing minor corrective stability during hops.
+
+The single rear leg either terminates the body directly, in which case the animal has no tail and lands and balances on leg and forelimbs alone, or is positioned beneath the lower body while the spine continues rearward into a tail, which provides additional balance during movement and rest. Species of both configurations exist in the wild.
+
+In more extensively modified species, the forelimbs themselves have been redesigned for purposes other than locomotion or manipulation. Documented variants include forelimbs restructured into fins for aquatic companion animals, and forelimbs restructured into wings, producing animals capable of gliding or powered flight. These more radical modifications typically reduce or eliminate the forelimb's balancing function, requiring compensatory changes to the tail or leg musculature to maintain stable posture.
+
+None of the designer species produced under this body plan were designed with survival in the wild in mind. Their traits were selected for appearance, temperament, and novelty rather than survival optimization. Nevertheless, several of these species have established feral populations and carved out stable ecological niches, particularly in environments with low predator pressure or abundant easy food sources. Their success in the wild is generally considered incidental, a stroke of luck.
+
+---
+
+## Skin, Scales, and Coloration
+
+**Scale-based skin** in most commonly possessed by Kirian vertebrates composed of keratinous scutes, varying in size and density. Smaller, more flexible scales typically cover the ventral surface and inner limbs to allow for range of motion, while larger, thicker, plate-like scales protect the dorsal surface and outer limbs. Periodic shedding is near-universal; in humid conditions, shedding often occurs in an accelerated burst over several days. In drier conditions, shedding tends to be slower and more gradual.
+
+**Chitin** has developed independently in several species, a hard, mineralized outer shell over part or all of the dorsal surface. This is distinct from scale-based skin and represents a separate evolutionary pathway, more common in smaller or slower species that cannot rely on escape, and species of a tripartite body structure, which may be much larger. Many such species retain leathery, scaled skin beneath and around the chitinous shell.
+
+Skin coloration across Kirian species is frequently in the blue-to-teal range. This is a downstream consequence of hemocyanin-based blood, which gives the underlying tissues a blue tint that shows through lighter areas of skin. Diet, sun exposure, and genetics all modulate how strongly this is expressed. Deeper pigmentation in dorsal scales is common regardless of baseline coloration, as the thicker scale structure accommodates more pigment.
+
+Despite this baseline bias, scales and chitin across Kirian species collectively express a wide array of colors spanning the full visible spectrum, with individual species exhibiting colorations shaped by camouflage pressures, mate selection, and threat display. Vivid reds, yellows, greens, and patterns of high contrast are well-represented across different species.
+
+---
+
+## Circulatory System
+
+**Hemocyanin**, a copper-containing protein, is the dominant oxygen-transport molecule in Kirian vertebrate blood. This is in contrast to the iron-based hemoglobin found in Earth vertebrates. This is a consequence of Kiray's copper-enriched crust and oceans, which made copper biologically abundant during the early evolution of complex life. Hemocyanin-based blood ranges in color from pale blue when deoxygenated to a deeper blue or blue-violet when oxygenated. 
+
+Hemocyanin is generally less efficient than hemoglobin at binding oxygen, particularly at elevated temperatures. However, though this document refers to this protein as hemocyanin, the actual protein on Kiray is differentiated between several species and operates more efficiently. Their oxygen-carrying molecules are a modified form with additional binding sites, letting each carrier hold more oxygen than an unmodified version would. This causes larger Kirian organisms to present with oxygenated blood that is a deeper blue color than hemocyanin-bearing organisms on Earth. Kirian species additionally compensate for this through stronger circulation, higher blood volume, and more efficient respiratory structures. Many species also store reserves of oxygen in specialized tissues near major muscle groups, giving them a buffer for sudden bursts of activity. The general consequence though, is that warm environments place greater physiological strain on most Kirian species, and cooler environments tend to extend metabolic longevity.
+
+*Blood Colors of Kirian Organisms*
+
+To further compensate, behavioral thermoregulation is the norm. Kirian vertebrates lose excess body heat easily, managing high body temperature through posture, shade-seeking, bathing, and activity timing. They are situationally endothermic, only generating significant body heat during periods of activity and active metabolism, otherwise their body temperature drifts towards the ambient air temperature. This is consistent with Kiray's warm, stable climate, which rarely demands long-term heat retention. During cold periods Kirian organisms do generate sufficient heat, but this is not sustainable for very long.
+
+---
+
+## Respiratory System
+
+A near-universal feature of Kirian vertebrate respiration is a **unidirectional airflow** system supported by air sacs. Rather than the in-and-out breathing pattern common on Earth, Kirian lungs are filled by a set of staggered air sacs that act as bellows, pushing air through the lungs in a continuous one-way flow. This allows for near-constant gas exchange with fresh air, and means that Kirian lungs never contain stale air. The system is highly efficient at extracting oxygen, which compensates for hemocyanin's reduced binding efficiency.
+
+Air intake in most species occurs through recessed spiracles. These intakes are typically located on the face or upper head near the beak, protected by cartilage, bone, or surrounding tissue. This placement serves to filter particulate matter, including the persistent background concentration of spores in Kiray's atmosphere, before air reaches the lungs. Many species possess internal filtering tissue along the inhalation passage. These structures are not capable of filtering all particulates under heavy concentrations, such as during wildfires, where plants release large amounts of spores at once, but under normal ambient conditions they are highly effective.
+
+A secondary consequence of respiration driven by staggered air sacs is that many Kirian species are capable of producing sound continuously. Sound-producing organs are typically located along the exhale pathway inside the throat, and the continuous airflow of the sac system makes it possible to sustain sound longer and more fluidly than a breathing system reliant on separate inhale and exhale phases.
+
+---
+
+## Sensory Systems
+
+### Vision
+
+Kirian species have a very diverse catalog of eye arrangements, ranging from one eye to as many as six. Many Kirian vertebrates possess at least **two pairs of eyes**: a primary pair providing high-resolution, color-capable vision, and a secondary pair that is more sensitive to motion and low-light conditions, but with reduced acuity and color discrimination. Other eye configurations are similar in nature, with some eyes specializing in a way that contrasts other eye specializations, or adds depth perception or a greater field of view. In many species, the two eye pairs are positioned such that they provide overlapping but distinct fields of coverage, allowing an animal to detect motion in its periphery even while focusing its primary eyes elsewhere. The positioning of eyes also varies significantly by species and ecological niche. Forward-facing arrangements favor depth perception and predation, while lateral or dorsal arrangements favor wide-field awareness and predator detection. 
+
+### Facial Sensory Structures
+
+Chemosensory and mechanosensory structures on the face are common across most Kirian vertebrates. These most often take the form of whiskers, tendrils, or fleshy projections located on the lower jaw, on the crest of the beak, or above the eyes. These structures detect air currents, chemical and hormone signals, and vibration, and in many species serve multiple functions simultaneously, including olfaction, humidity sensing, and social signaling.
+
+Olfaction in most species is closely integrated with respiration, with chemosensory tissue located in or near the breathing spiracles. This use of the inhalation passage for both spore filtering and scent detection is common.
+
+### Hearing
+
+Auditory structures in Kirian vertebrates are typically recessed into the skull or protected by surrounding scales and tissue, rather than protruding as external structures. This reflects the atmospheric conditions of Kiray: its denser atmosphere transmits sound more efficiently, reducing the need for large external sound-gathering structures. Instead, recessed auditory passages often include internal amplification structures such as hollow chambers or bones which cause sound to resonate, amplifying certain types of sounds.
+
+### Beaks
+
+A keratinized beak is a near-universal feature among Kirian vertebrates. Beak morphology varies enormously by diet, species, and individual genetics, ranging from broad, serrated forms suited to tearing and digging, to narrow, tool-like forms suited to manipulation. The basic structure of two or four keratinous jaw pieces forming a rigid beak is consistent across almost all species, with many two-part beak-bearing species having vestigial remnants of the two additional lateral beak structures. In many species, the beak's purpose has expanded beyond feeding to serve in defense, object manipulation, communication, and even reproduction.
+
+---
+
+## Reproductive System
+
+Reproduction across Kirian vertebrates is oviparous. Eggs are laid externally and, at the time of laying, are unfertilized. The egg casing is initially soft and permeable, with a brief window following laying in which fertilization can occur. After this window, the casing progressively hardens into a more protective shell, sealing the developing embryo inside.
+
+Fertilization occurs via a **reproductive gland located on the bridge of the beak**. This gland, present in individuals capable of fertilizing eggs, secretes fertilizing material directly onto the soft egg surface. The positioning of the gland on the beak appears to be a derived ancestral trait common across a wide range of Kirian vertebrate species, suggesting a deep common origin.
+
+Reproductive role is not strictly binary. Within most Kirian species, individuals may be capable of laying eggs, fertilizing eggs, both, or neither. The proportion of each role type varies by species and sometimes by population. This arrangement decouples reproductive function from other aspects of morphology more thoroughly than is typical of Earth vertebrates, and means that Kirian species do not generally exhibit the strong sexual dimorphism in body size or form that is common on Earth. 
+
+Interestingly, individuals who are capable of neither reproductive role appear most often in species that form communes, and they often grow to be larger and more muscular than others. This pattern suggests a developmental tradeoff between reproductive and somatic development. In communal species, the resulting variation in body size appears well suited to defensive and caregiving roles, and it is indeed observed that these individuals disproportionately take on those roles, suggesting that this pattern is reinforced by natural selection. Conversely, individuals capable of both roles often develop to be smaller, with lighter frames and reduced musculature.
+
+Parental investment patterns vary widely, but communal egg care is observed across many unrelated species, likely driven by the ecological pressure of Kiray's fire-prone and predator-rich environment. Unguarded egg clutches face high failure rates, and group-based nesting and rearing of young has been an effective mitigation strategy across multiple independent species.
+
+
