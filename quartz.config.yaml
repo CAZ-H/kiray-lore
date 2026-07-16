@@ -142,8 +142,9 @@ plugins:
   - source: github:quartz-community/graph
     enabled: true
     layout:
-      position: footer
-      priority: 10
+      position: left
+      priority: 60
+      display: desktop-only
   - source: github:quartz-community/search
     enabled: true
     layout:
