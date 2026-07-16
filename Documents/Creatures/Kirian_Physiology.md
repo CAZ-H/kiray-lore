@@ -4,19 +4,19 @@ title: Kirian Physiology
 
 This document outlines physiological traits that are common or widespread among Kirian vertebrate fauna. Species-specific adaptations are documented on individual species pages; this page covers the shared ancestral patterns from which those adaptations diverge.
 
----
-
 ## Body Structuring
 
 Kirian vertebrates fall into one of two fundamental body structurings that differ in how organs and musculature are organized along the spine.
 
-**Continuous** body structuring is the more simple of the two. The body is a single undivided structure, with organs distributed along its length and musculature wrapped continuously around them. This is the more common structuring and is broadly equivalent to the vertebrate body plan found on Earth.
+Both structurings are applicable to all of the body plans described below, with the exception of the tripod body plan. These body plans are thought to have developed first with a continuous structure, with the tripartite structure developing later in a convergent manner across species of different body plans, hence why their traits are expressed across species of both kinds.
 
-**Tripartite** body structuring divides the body into three distinct segments (analogous to a head, thorax, and abdomen) separated by narrowed junctions. While superficially resembling an insect, tripartite Kirian organisms are vertebrates, with an internal skeleton running the full length of the body. The division is thought to have arisen early in the evolutionary history where organs migrated rearward into a dedicated abdominal compartment, freeing the thorax to be dominated by musculature and limb attachment. This organization allowed for denser, more powerful limb musculature than is typically possible in continuous organisms of comparable size. The narrowed junctions between segments are structurally reinforced by the skeleton but remain relative points of vulnerability.
+### Continuous Structure
 
-Both structurings are applicable to all of the body plans described below, with the exception of the tripod body plan. These body plans are thought to have developed first with a continuous structure, with the tripartite structure developing later, hence why their traits are expressed across species of both kinds.
+Continuous body structuring is the more simple of the two. The body is a single undivided structure, with organs distributed along its length and musculature wrapped continuously around them. This is the more common structuring and is broadly equivalent to the vertebrate body plan found on Earth.
 
----
+### Tripartite Structure
+
+Tripartite body structuring divides the body into three distinct segments (analogous to a head, thorax, and abdomen) separated by narrowed junctions. While superficially resembling an insect, tripartite Kirian organisms are vertebrates, with an internal skeleton running the full length of the body. The division is thought to have arisen early in the evolutionary history where organs migrated rearward into a dedicated abdominal compartment, freeing the thorax to be dominated by musculature and limb attachment. This organization allowed for denser, more powerful limb musculature than is typically possible in continuous organisms of comparable size. The narrowed junctions between segments are structurally reinforced by the skeleton but remain relative points of vulnerability.
 
 ## Common Body Plans
 
@@ -60,64 +60,60 @@ In more extensively modified species, the forelimbs themselves have been redesig
 
 None of the designer species produced under this body plan were designed with survival in the wild in mind. Their traits were selected for appearance, temperament, and novelty rather than survival optimization. Nevertheless, several of these species have established feral populations and carved out stable ecological niches, particularly in environments with low predator pressure or abundant easy food sources. Their success in the wild is generally considered incidental, a stroke of luck.
 
----
+## Skin and Coloration
 
-## Skin, Scales, and Coloration
+**Scale-like skin** is most commonly possessed by Kirian vertebrates. It is most often composed of small pebbly flexible scales which cover the innermost sides of limbs, the chest, and the stomach; and larger plate-like dorsal scutes which protect the back, shoulders, and the outermost sides of limbs. The small scales are typically smooth, while the dorsal scales have a thicker, roughened surface. 
 
-**Scale-based skin** is most commonly possessed by Kirian vertebrates composed of keratinous scutes, varying in size and density. Smaller, more flexible scales typically cover the ventral surface and inner limbs to allow for range of motion, while larger, thicker, plate-like scales protect the dorsal surface and outer limbs. Periodic shedding is near-universal; in humid conditions, shedding often occurs in an accelerated burst over several days. In drier conditions, shedding tends to be slower and more gradual.
+Periodic shedding is near-universal; in humid conditions, shedding often occurs in an accelerated burst over several days. In drier conditions, shedding tends to be slower and more gradual. Shed skin will come off in individual pieces for larger dorsal scutes, and in sheets for areas of small scales.
 
-**Chitin** has developed independently in several species, a hard, mineralized outer shell over part or all of the dorsal surface. This is distinct from scale-based skin and represents a separate evolutionary pathway, more common in smaller or slower species that cannot rely on escape, and species of a tripartite body structure, which may be much larger. Many such species retain leathery, scaled skin beneath and around the chitinous shell.
+Kirian organisms do not typically regulate their temperature with their skin, and instead do so through thermoregulation behaviors.
 
-Skin coloration across Kirian species is frequently in the blue-to-teal range. This is a downstream consequence of hemocyanin-based blood, which gives the underlying tissues a blue tint that shows through lighter areas of skin. Diet, sun exposure, and genetics all modulate how strongly this is expressed. Deeper pigmentation in dorsal scales is common regardless of baseline coloration, as the thicker scale structure accommodates more pigment.
+**Chitin-like armor** has developed independently in several species, a hard, mineralized outer shell over part or all of the dorsal surface. This is distinct from scale-based skin and represents a separate evolutionary pathway, more common in smaller or slower species that cannot rely on escape, and species of a tripartite body structure, which may be much larger. However, many such species also retain leathery, scaled skin beneath and around the chitinous shell.
 
-Despite this baseline bias, scales and chitin across Kirian species collectively express a wide array of colors spanning the full visible spectrum, with individual species exhibiting colorations shaped by camouflage pressures, mate selection, and threat display. Vivid reds, yellows, greens, and patterns of high contrast are well-represented across different species.
+**Skin coloration** across Kirian species is frequently in the blue-to-teal range. This is a downstream consequence of hemocyanin-based blood, which gives the underlying tissues a blue tint that shows through lighter areas of skin. Diet, sun exposure, and genetics all modulate how this color is expressed. For example, Kirian organisms often experience darkening of their scales to protect against UV exposure, at the cost of reduced heat tolerance in direct sunlight, increasing thermoregulation behaviors. These color changes occur independently of shedding as they happen on the inner layers of the skin, but can return to normal after multiple shedding cycles in a different environment.
 
----
+Deeper pigmentation in dorsal scutes is common regardless of baseline skin coloration, as the thicker scute structure accommodates more pigment. In species that lack secondary skin pigmentation and express the natural blue color, this also means that these scutes often diverge from that skin color.
+
+However despite this baseline bias towards blue coloration, scales, scutes, and chitin across Kirian species collectively express a wide array of colors spanning the full visible spectrum, with individual species exhibiting colorations shaped by camouflage pressures, mate selection, and threat display. Vivid reds, yellows, greens, and patterns of high contrast are well-represented across different species.
+
+## Beaks
+
+A keratinized beak is a near-universal feature among Kirian vertebrates. Beak morphology varies enormously by diet, species, and individual genetics, ranging from broad, serrated forms suited to tearing and digging, to narrow, tool-like forms suited to manipulation. The basic structure of two or four keratinous jaw pieces forming a rigid beak is consistent across almost all species, with many two-part beak-bearing species having vestigial remnants of the two additional lateral beak structures. In many species, the beak's purpose has expanded beyond feeding to serve in defense, object manipulation, and communication. 
+
+The crest of the beak is also commonly host to part of the reproductive system, a reproductive gland which is used to fertilize recently-laid eggs.
 
 ## Circulatory System
+
+Most Kirian organisms possess a **four-chambered heart** that beats continuously to circulate oxygenated blood.
 
 **Hemocyanin**, a copper-containing protein, is the dominant oxygen-transport molecule in Kirian vertebrate blood. This is in contrast to the iron-based hemoglobin found in Earth vertebrates. This is a consequence of Kiray's copper-enriched crust and oceans, which made copper biologically abundant during the early evolution of complex life. Hemocyanin-based blood ranges in color from clear to pale blue when deoxygenated to a deeper blue or blue-violet when oxygenated. 
 
 ![[assets/BloodColors.png|500]]
 *Blood Colors of Kirian Organisms*
 
-Hemocyanin is generally less efficient than hemoglobin at binding oxygen, particularly at elevated temperatures. However, though this document refers to this protein as hemocyanin, the actual protein on Kiray is differentiated between various species and generally operates more efficiently in larger organisms. Their oxygen-carrying molecules are a modified form with additional binding sites, letting each carrier hold more oxygen than an unmodified version would. This causes larger Kirian organisms to present with oxygenated blood that is a deeper blue color than hemocyanin-bearing organisms on Earth. Kirian species additionally compensate for this through stronger circulation, higher blood volume, and more efficient respiratory structures. Many species also store reserves of oxygen in specialized tissues near major muscle groups, giving them a buffer for sudden bursts of activity. The general consequence though, is that warm environments place greater physiological strain on most Kirian species, and cooler environments tend to extend metabolic longevity.
+Hemocyanin is generally less efficient than hemoglobin at binding oxygen, particularly at elevated temperatures. However, though this document refers to this protein as hemocyanin, the actual protein on Kiray is differentiated between various species and generally operates more efficiently in larger organisms. Their oxygen-carrying molecules are a modified form with additional binding sites, letting each carrier hold more oxygen than an unmodified version would. This causes larger Kirian organisms to present with oxygenated blood that is a deeper blue color than hemocyanin-bearing organisms on Earth. 
+
+Kirian species additionally compensate for the reduced efficiency with stronger hearts and a faster average heart rate, higher blood volume and high-capacity arteries, and more efficient respiratory structures. Many species also store reserves of oxygen in specialized tissues near major muscle groups, giving them a buffer for sudden bursts of activity. 
+
+However, the natural lifespan of Kirian organisms is affected by these circulatory adaptations. Warmer environments place greater physiological strain on most Kirian species, and cooler environments tend to extend metabolic longevity.
 
 To further compensate, behavioral thermoregulation is the norm. Kirian vertebrates shed excess body heat easily through a heat-dumping mechanism similar to gular fluttering in Earth birds, and otherwise practice shade-seeking, bathing, and activity timing. They are situationally endothermic, able to rest and reduce the amount of body heat they generate during periods of inactivity, where their body temperature drifts towards the ambient air temperature. During cold periods, such as the extended night period on the anti-Kete hemisphere, Kirian organisms are capable of generating sufficient body heat at greater metabolic cost, leading to behaviors such as food caching, and night-time hunting.
-
----
 
 ## Respiratory System
 
 A near-universal feature of Kirian vertebrate respiration is a **unidirectional airflow** system supported by air sacs. Rather than the in-and-out breathing pattern common on Earth, Kirian lungs are filled by a set of staggered air sacs that act as bellows, pushing air through the lungs in a continuous one-way flow. This allows for near-constant gas exchange with fresh air, and means that Kirian lungs never contain stale air. The system is highly efficient at extracting oxygen, which compensates for hemocyanin's reduced binding efficiency.
 
-Air intake in most species occurs through recessed holes similar in appearance to nostrils. These intakes are typically located on the face or upper head near the beak, protected by cartilage, bone, or surrounding tissue. This placement serves to filter particulate matter, including the persistent background concentration of spores in Kiray's atmosphere, before air reaches the lungs. Many species possess internal filtering tissue along the inhalation passage. These structures are not capable of filtering all particulates under heavy concentrations, such as during wildfires, where plants release large amounts of spores at once, but under normal ambient conditions they are highly effective.
+As a Kirian organism breathes in, it fills the first chamber of the air sacs; simultaneously it is exhaling from the second chamber of the air sacs, through the lung structures, and out through the mouth; between breaths there is a short pause as the air in the air sacs transfer chambers.
+
+Air intake in most species occurs through recessed holes similar in appearance to nostrils. These intakes are typically located on the face or upper head near the beak, protected by cartilage, bone, or surrounding tissue. This placement serves to filter particulate matter, including the persistent background concentration of spores in Kiray's atmosphere, before air reaches the lungs. Many species possess internal filtering gills along the inhalation passage which self-cleans by means of mucous and drains into the back of the throat. These structures are not capable of filtering all particulates under heavy concentrations, such as during wildfires, where plants release large amounts of spores at once, but under normal ambient conditions they are highly effective. When overwhelmed, Kirian organisms are capable of a reflex analogous to coughing in Earth organisms, which helps mitigate excessive spore inhalation.
 
 A secondary consequence of respiration driven by staggered air sacs is that many Kirian species are capable of producing sound continuously. Sound-producing organs are typically located along the exhale pathway inside the throat, and the continuous airflow of the sac system makes it possible to sustain sound longer and more fluidly than a breathing system reliant on separate inhale and exhale phases.
 
----
+## Digestive System
 
-## Sensory Systems
+Kirian organisms are diverse in this respect, with no single system being near universal.
 
-### Vision
-
-Kirian species have a very diverse catalog of eye arrangements, ranging from one eye to as many as six. Many Kirian vertebrates possess at least **two pairs of eyes**: a primary pair providing high-resolution, color-capable vision, and a secondary pair that is more sensitive to motion and low-light conditions, but with reduced acuity and color discrimination. Other eye configurations are similar in nature, with some eyes specializing in a way that contrasts other eye specializations, or adds depth perception or a greater field of view. In many species, the two eye pairs are positioned such that they provide overlapping but distinct fields of coverage, allowing an organism to detect motion in its periphery even while focusing its primary eyes elsewhere. The positioning of eyes also varies significantly by species and ecological niche. Forward-facing arrangements favor depth perception and predation, while lateral or dorsal arrangements favor wide-field awareness and predator detection. 
-
-### Facial Sensory Structures
-
-Chemosensory and mechanosensory structures on the face are common across most Kirian vertebrates. These most often take the form of whiskers, tendrils, or fleshy projections located on the lower jaw, on the crest of the beak, or above the eyes. These structures detect air currents, chemical and hormone signals, and vibration, and in many species serve multiple functions simultaneously, including olfaction, humidity sensing, and social signaling.
-
-Olfaction in most species is closely integrated with respiration, with chemosensory tissue located in or near the breathing holes. This use of the inhalation passage for both spore filtering and scent detection is common.
-
-### Hearing
-
-Auditory structures in Kirian vertebrates are typically recessed into the skull or protected by surrounding scales and tissue, rather than protruding as external structures. This reflects the atmospheric conditions of Kiray: its denser atmosphere transmits sound more efficiently, reducing the need for large external sound-gathering structures. Instead, recessed auditory passages often include internal amplification structures such as hollow chambers or bones which cause sound to resonate, amplifying certain types of sounds.
-
-### Beaks
-
-A keratinized beak is a near-universal feature among Kirian vertebrates. Beak morphology varies enormously by diet, species, and individual genetics, ranging from broad, serrated forms suited to tearing and digging, to narrow, tool-like forms suited to manipulation. The basic structure of two or four keratinous jaw pieces forming a rigid beak is consistent across almost all species, with many two-part beak-bearing species having vestigial remnants of the two additional lateral beak structures. In many species, the beak's purpose has expanded beyond feeding to serve in defense, object manipulation, communication, and even reproduction.
-
----
+Consumed food passes through a muscular esophagus into a stomach, which may be multi-chambered or not, where strong acids and enzymes break it down. From there, it moves into a streamlined intestinal tract, usually with two distinct regions: a long, tightly coiled section specialized for rapid nutrient absorption, and a short, thicker section that regulates hydration, hosts gut flora, and is capable of fermentation. The length or existence of these two bowel sections varies between species.
 
 ## Reproductive System
 
@@ -131,4 +127,26 @@ Interestingly, individuals who are capable of neither reproductive role appear m
 
 Parental investment patterns vary widely, but communal egg care is observed across many unrelated species, likely driven by the ecological pressure of Kiray's fire-prone and predator-rich environment. Unguarded egg clutches face high failure rates, and group-based nesting and rearing of young has been an effective mitigation strategy across multiple independent species.
 
+## Sensory Systems
 
+### Vision
+
+Kirian species have a very diverse catalog of eye arrangements, ranging from one eye to as many as eight.
+
+Many Kirian vertebrates possess at least **two pairs of eyes**: a primary pair providing high-resolution, color-capable vision, and a secondary pair that is more sensitive to motion and low-light conditions, but with reduced acuity and color discrimination. Some possess only **one eye**, or have a central eye in addition to one or more pairs of eyes.
+
+Other eye configurations are similar in nature, with some eyes specializing in a way that contrasts other eye specializations, or adds depth perception or a greater field of view. In many species, the eye pairs are positioned such that they provide overlapping but distinct fields of coverage, allowing an organism to detect motion in its periphery even while focusing its primary eyes elsewhere. The positioning of eyes also varies significantly by species and ecological niche. Forward-facing arrangements favor depth perception and predation, while lateral or dorsal arrangements favor wide-field awareness and predator detection. 
+
+### Facial Sensory Structures
+
+Chemosensory and mechanosensory structures on the face are common across most Kirian vertebrates. These most often take the form of whiskers, tendrils, or fleshy projections located on the lower jaw, on the crest of the beak, or above the eyes. These structures detect air currents, chemical and hormone signals, and vibration, and in many species serve multiple functions simultaneously, including olfaction, humidity sensing, and social signaling. During times of intense emotion or danger, the color of these protrusions can deepen to reflect the color of the blood beneath the skin.
+
+### Hearing
+
+Auditory structures in Kirian vertebrates are typically recessed into the skull or protected by surrounding scales and tissue, rather than protruding as external structures. Instead, recessed auditory passages often include internal amplification structures such as hollow chambers or bones which cause sound to resonate, amplifying certain types of sounds.
+
+This reflects the atmospheric conditions of Kiray: its denser atmosphere transmits sound more efficiently, reducing the need for large external sound-gathering structures. 
+
+### Olfaction
+
+Olfaction in most species is closely integrated with respiration, with chemosensory tissue located in or near the breathing holes, embedded in the frontal skull and partially recessed into the base of the beak, similar to nostrils. This use of the inhalation passage for scent detection is common.
