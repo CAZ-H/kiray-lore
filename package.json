@@ -14,7 +14,7 @@
   "scripts": {
     "quartz": "./quartz/bootstrap-cli.mjs",
     "build": "npx quartz build -d Documents",
-    "serve": "npx quartz build --serve -d Documents",
+    "serve": "npx quartz build --serve -d Documents --baseDir /kiray-lore",
     "check": "tsc --noEmit && npx prettier . --check",
     "format": "npx prettier . --write",
     "test": "tsx --test",

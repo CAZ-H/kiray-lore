@@ -143,7 +143,7 @@ Crucially, not all vegetation is defended this way. Plenty of edible species exi
 
 Life on Kiray transports oxygen using copper rather than iron. The planet's copper-saturated seas and crust made copper the most readily available metal for early life to build its oxygen-carrying molecules around, and that choice locked in and shaped everything that followed. Native blood and its equivalents run blue when oxygenated and pale when depleted.
 
-Copper-based oxygen carriers are naturally less efficient than iron-based ones, so Kiray's larger, more active animals evolved several adaptations to compensate; including a more efficient version of hemocyanin, circulatory optimizations, and respiratory optimizations. Kiray's oxygen-rich, high-pressure atmosphere also supports all of this by making oxygen generally more available.
+Copper-based oxygen carriers are naturally less efficient than iron-based ones, so Kiray's larger, more active animals evolved several adaptations to compensate; including packaging their hemocyanin within blood cells to concentrate it, circulatory optimizations, and respiratory optimizations. Kiray's oxygen-rich, high-pressure atmosphere also supports all of this by making oxygen generally more available.
 
 ### The Long Day
 

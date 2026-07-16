@@ -12,7 +12,9 @@ Built with [Quartz 5](https://quartz.jzhao.xyz/).
 
 Edit or add Markdown files under `Documents/`. Obsidian-style `[[wikilinks]]` and GitHub-flavored Markdown are both valid. 
 
-There are batch files in the root directory to `install.bat` the Node dependencies, and to `serve.bat` the wiki locally. Requires Node.js 22+.
+There are batch files in the root directory to `install.bat` the Node dependencies, and to `serve.bat` the wiki locally at http://localhost:8080/kiray-lore/. Requires Node.js 22+.
+
+The local preview is served under the `/kiray-lore` path on purpose, via `--baseDir /kiray-lore`, so that it matches how GitHub Pages serves the site. Serving from the root instead will cause the explorer, graph, and search links to 404, since those are built at runtime against the deployed base path (see "Modifications to Quartz" below).
 
 After merging to `main`, the site redeploys automatically.
 

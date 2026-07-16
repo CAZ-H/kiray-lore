@@ -15,9 +15,9 @@ if not exist node_modules (
     exit /b 1
 )
 
-echo === Wiki preview: http://localhost:8080  ^(press Ctrl+C to stop^)
+echo === Wiki preview: http://localhost:8080/kiray-lore/  ^(press Ctrl+C to stop^)
 :serve
-call npx quartz build --serve -d Documents
+call npx quartz build --serve -d Documents --baseDir /kiray-lore
 echo.
 echo === Server exited ^(the file watcher can crash on renamed or locked files^). Restarting in 3 seconds, Ctrl+C to stop...
 timeout /t 3 /nobreak >nul

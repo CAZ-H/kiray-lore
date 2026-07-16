@@ -60,7 +60,7 @@ Skiedons continuously shed over time as they grow, but will sometimes go through
 
 ### Internal Physiology
 
-**Circulatory System:** Skiedons possess a [[Kirian_Physiology#Circulatory System|typical Kirian circulatory system]], with an improved form of the hemocyanin oxygen transport protein to support their high-activity arboreal lifestyle. Their blood is a deeper blue than the blue of hemocyanin found on Earth.
+**Circulatory System:** Skiedons possess a [[Kirian_Physiology#Circulatory System|typical Kirian circulatory system]], with densely concentrated hemocyanin to support their high-activity arboreal lifestyle. Their blood is a deeper blue than the blue of hemocyanin found on Earth. Their hearts are strong and beat quickly to service the oxygen demand of a body held at elevated canopy temperatures, and this sustained cardiac work is the primary reason their natural lifespan is shorter than their size would otherwise suggest.
 
 **Respiratory System:** Like most Kirian organisms, possess a [[Kirian_Physiology#Respiratory System|typical Kirian respiratory system]] which consists of a pair of symmetrical lungs supported by air sacs that force a unidirectional airflow over respiratory tissues, allowing for a steady flow of fresh air through the lungs. 
 
@@ -80,18 +80,14 @@ Skiedons are highly social and intelligent, with communication modes involving v
 
 ## Foraging and Feeding Habits
 
+ TODO
 
 ## Lifespan
 
-The average lifespan of a **tribal** Skiedon is approximately 90 Kirian years, or about 50 Earth years, though this figure is pulled down considerably by juvenile mortality, illness, falls and fatal accidents, and predation; healthy individuals who reach maturity commonly live to around 110 Kirian years, or roughly 61 Earth years. The limiting factor is heat rather than disease. Because Skiedons are [[Kirian_Physiology#Circulatory System|situationally endothermic]], a tribal Skiedon at rest sits at the ambient temperature of the equatorial canopy, and binding oxygen at that temperature imposes a constant strain against the very heart adaptations that permit their high-activity lifestyle.
+The average lifespan of a **tribal** Skiedon is approximately 90 Kirian years, or about 50 Earth years, though this figure is pulled down considerably by juvenile mortality, illness, falls, fatal accidents, and predation; healthy individuals who reach maturity commonly live to around 110 Kirian years, or roughly 61 Earth years. The limiting factor is heat rather than disease, because a tribal Skiedon at rest sits at the ambient temperature of the equatorial canopy, and a body held at that temperature runs its metabolism fast, consuming fuel at a high rate and working the heart hard for every hour of its life.
 
-However, there is evidence that the Skiedons of the **late civilization** lived to as old as 130 Kirian years, or about 73 Earth years, with exceptional individuals reaching 150 Kirian years, roughly 84 Earth years. Medicine accounts for part of this, but the greater share is attributed to climate control. A Skiedon who slept, worked, and ate in cooled air spent the majority of its life at a resting temperature well below that of the canopy, and the resulting reduction in metabolic strain compounded across decades. This benefit scaled by proximity to the industrial core, where inhabitants performed little manual labor and spent more time inside conditioned interiors; individuals living in agricultural villages and near the outskirts lived considerably shorter lives, closer to the lifespan of tribal Skiedons today.
+However, there is evidence that the Skiedons of the **late civilization** lived to as old as 130 Kirian years, or about 73 Earth years, with exceptional individuals reaching 150 Kirian years, roughly 84 Earth years. Medicine accounts for part of this, but the greater share is attributed to climate control. Conditioned air was both cooler and drier than the canopy. Cooler air slows the resting metabolism of Kirian organisms, while drier air improves the efficacy of the evaporative heat-dumping reflex Kirian organisms possess which Kiray's humid atmosphere otherwise often  defeats. A Skiedon who spent its life in such environments would therefore run at a lower temperature than any wild Skiedon could achieve, and across decades makes a measurable difference in lifespan. This benefit scaled by proximity to the industrial core, where inhabitants performed little manual labor and spent more time inside conditioned interiors; individuals living in agricultural villages and near the outskirts lived considerably shorter lives, closer to the lifespan of tribal Skiedons today.
 
 ### Culture and Clans
 
-> TODO
-
-- Skiedons live in multi-level vertical communes, typically within naturally hollowed trunks or suspended woven structures.
-- Clans range from 15 to 50 members, with a role-based organizational structure, and single member leadership.
-- Egg incubation is communal, with shared parenting structures and elevated nesting platforms for protection.
-- Stories, traditions, and warnings are passed down through verbal storytelling and artwork.
+TODO
