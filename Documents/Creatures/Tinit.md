@@ -5,6 +5,8 @@ title: Tinit
 
 Tinit is a common name for a family of horizontal bipedal scavengers, as well as the name for the most common species of this family. These creatures are notable for their adaptable diet and widespread distribution.
 
+![[Tinit.png|500]]
+
 ## Taxonomy
 
 While the Tinit is the most common member of a family of horizontally oriented bipedal creatures, it is also the family term for an extended collection of alike creatures. This family can be referred to as "T-nits" or "Nits".
@@ -21,7 +23,7 @@ A Tinit is a horizontally oriented bipedal creature with a short tail and a forw
 
 ### Limbs and Movement
 
-**Legs:** True Tinits are [[Kirian_Physiology#Horizontal Hexapod|Kirian ungulates]], bearing small discrete toes and a pad of tough connective tissue on each foot.
+**Legs:** True Tinits are [[Kirian_Physiology#Horizontal Hexapod|Kirian ungulates]], bearing three small discrete toes and a pad of tough connective tissue on each foot.
 
 **Tail:** The tail is short and pointed, smoothly extending from the body.
 
@@ -35,7 +37,7 @@ A Tinit is a horizontally oriented bipedal creature with a short tail and a forw
 
 ### Skin and Coloration
 
-True Tinits have a thick plated [[Kirian_Physiology#Skin and Coloration|chitinous carapace]] protecting their backs, adorned with hereditary arrangements of bumps and ridges. The typical Tinit has sky-blue leathery skin and a red chitinous carapace, though certain mutations can swap one or both of these colors.
+True Tinits have a thick plated [[Kirian_Physiology#Skin and Coloration|chitinous carapace]] protecting their backs, adorned with hereditary arrangements of bumps and ridges. The typical Tinit has sky-blue leathery skin and a red chitinous carapace, though certain mutations can swap one or both of these colors. The tail is pigmented red as well, and is used for display purposes.
 
 ### Internal Physiology
 

@@ -6,6 +6,8 @@ Tonits are members of the [[Tinit#Taxonomy|true Tinit]] family, differentiated b
 
 It is thought that they arose from a common mutation which found its own niche.
 
+![[Tonit.png|500]]
+
 ## Morphology
 
 ### General Anatomy
@@ -18,9 +20,9 @@ Their anatomy is almost identical to [[Tinit|Tinits]] in every way.
 
 Tonits differ from tinits primarily in coloration and the shape of the carapace on their backs.
 
-Instead of the [[Tinit#Skin and Coloration|distinctive blue skin and red carapace]] that Tinits bear, Tonits exhibit red skin and black or dark-red carapaces. The red skin comes from a mutation that Tinits are also capable of which solidified as a common trait in this species, while the dark carapace is a byproduct of the elevated copper in their altered, more carnivorous diet.
+Instead of the [[Tinit#Skin and Coloration|distinctive blue skin and red carapace]] that Tinits bear, Tonits exhibit red skin and black or dark-red carapaces and tail markings. The red skin comes from a mutation that Tinits are also capable of expresing, which solidified into a common trait in this species. The darker carapace is a byproduct of the elevated dietary copper found in their altered, more carnivorous diet.
 
-Tonit carapaces are also more likely to bear spikes and spiney protrusions, rather than the bumps and ridges characteristic of Tinit carapaces.
+Tonit carapaces are also more likely to bear spikes and spiney protrusions, rather than the bumps and ridges characteristic of Tinit carapaces. This is thought to be a defensive adaptation. 
 
 ## Behavior
 
