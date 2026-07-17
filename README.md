@@ -23,10 +23,6 @@ After merging to `main`, the site redeploys automatically.
 - `Documents/`: the wiki content (lore `.md` documents and `index.md` landing pages).
 - `quartz.config.yaml` — site configuration (title, theme colors, plugins).
 
-## Deployment
-
-GitHub Pages must be set to deploy from **GitHub Actions** (repo Settings → Pages → Source → "GitHub Actions"). After that, every push to `main` publishes the site.
-
 ## Notes
 
 ### Modifications to Quartz
@@ -45,6 +41,6 @@ GitHub Pages must be set to deploy from **GitHub Actions** (repo Settings → Pa
     - Yes, I really did spend a horrifying amount of time writing and rewriting the Kirian physiology document when I should have been sleeping.
 - AI has **not** been used to generate artwork for this project.
 
-- AI was used to bootstrap the repo and the Quartz setup which generates the static wiki files from the human-authored markdown documents.
+- AI was used to bootstrap the repo and the Quartz setup which generates the static wiki files from the human-authored markdown documents. It has also been used to fix bugs found in the upstream repo as needed.
 - AI has been used to deep-research complex foundational worldbuilding details such as the astronomical, geological, and biological foundations necessary to make robust decisions which influence the entire project downstream (E.g. The star's parameters decide Kiray's habitability and position in the solar system, which influences what color photosynthesizing plants can be, which influences where and how they can exist in the oceans, which influences how and where marine animals and plants evolve. Certain key numbers are extremely foundational and make or break the entire project, and many worldbuilding details were written before these documents existed, so it is critical to get these details as close to correct as possible. AI is very effective at exhaustively double-checking these details against themselves and against scientific literature.)
 - AI has been used to double-check that human-decided worldbuilding details do not introduce incorrect science, implausibilities, or inconsistencies with the rest of the documentation.

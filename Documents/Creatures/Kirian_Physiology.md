@@ -84,9 +84,17 @@ The crest of the beak is also commonly host to part of the reproductive system, 
 
 ## Endothermy
 
-The majority of Kirian organisms are endothermic despite the tropical nature of Kiray, and regulate toward a body temperature near the average of the equatorial range, around 32°C.
+The majority of Kirian organisms are endothermic despite the tropical nature of modern Kiray. 
 
-This is because of the length of Kiray's day. Forty-four hours of darkness is long enough that even near the equator, the ground and air sheds most its heat before dawn, and an organism whose temperature matched the air temperature would spend half of every day too cold to move. Endothermy is what allows Kirian organisms to remain active across the whole of the long night, and it is the reason no strict division between diurnal and nocturnal behavior exists on Kiray. The cost is paid through the long afternoon, when a body producing its own heat must shed it into air that is already hot and fully humid.
+Endothermy was selected early, on a cooler version of Kiray, where forty-four hours of unbroken night ran cold enough everywhere to prevent an ectotherm from being active during that long night. The endothermy was retained planet-wide due to common ancestral descent, but has become a liability in the equatorial band which has since warmed, where the humid air now holds night temperatures near 25°C, and a body producing its own heat must shed it into air that is already hot and humid.
+
+Accordingly, body temperature across Kirian organisms is organized by heat-shedding capacity rather than climate directly. Because heat is the main constraint, rather than cold, the pattern is opposite to Earth's. The equatorial band limits core body temperature, and cooler latitudes lets it increase.
+
+**Equatorial terrestrial species** hold a core temperature between 29°C and 33°C, close to the temperature of the humid air they cannot shed heat into. The lowest temperatures in this range belong to burrowing, communal, and large-bodied species, which rely on cover, huddling, wallowing, or slow thermal response due to body size. Species holding the upper end of this range pay for the higher temperature in reduced lifespan.
+
+**Aquatic and semi-aquatic** species hold core temperatures between 33°C and 36°C regardless of latitude, as water conducts heat away efficiently, even in equatorial seas. Bodies also develop larger here for the same reason. **Fliers and mid-latitude terrestrial species** occupy a similar range. Powered flight generates heat very quickly, and shedding it requires air noticeably cooler than the body. The equatorial air is rarely cool enough during the day, so species that fly at low latitudes are accordingly limited to short bursts.
+
+High-latitude species, those furthest North and South, have the highest body temperatures on the planet, 35°C to 38°C. Here the heat-shedding limits are gone and the only remaining cost of running hot is food.
 
 ### Heat Management
 
