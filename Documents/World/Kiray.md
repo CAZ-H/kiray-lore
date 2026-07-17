@@ -30,7 +30,7 @@ To calculate Kirian years from Earth years, the formula is `Kirian years = Earth
 | Density | 6.05 g/cm³ | 110% | 5.51 g/cm³ |
 | Gravity | 9.70 m/s² | 99% | 9.81 m/s² |
 | Day (Kete-synchronous) | 3.6 days / 86.5 hours | 360% | 1 day / 24 hours |
-| Year | 204 days | 56% | 365.25 days |
+| Year | 204.20 days | 56% | 365.25 days |
 | Orbital Eccentricity (around Kete) | 0.006 | - | - |
 
 ### Interaction with Kete
