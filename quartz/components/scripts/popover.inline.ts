@@ -29,13 +29,21 @@ async function mouseEnterHandler(
     popoverElement.classList.add("active-popover")
     setPosition(popoverElement as HTMLElement)
 
+    // resolve the inner element from the popover being shown rather than the
+    // enclosing scope, as this runs before `popoverInner` is declared when an
+    // already-fetched popover is reused
+    const inner = popoverElement.querySelector(".popover-inner") as HTMLElement | null
+    if (!inner) return
+
     if (hash !== "") {
       const targetAnchor = `#popover-internal-${hash.slice(1)}`
-      const heading = popoverInner.querySelector(targetAnchor) as HTMLElement | null
+      const heading = inner.querySelector(targetAnchor) as HTMLElement | null
       if (heading) {
         // leave ~12px of buffer when scrolling to a heading
-        popoverInner.scroll({ top: heading.offsetTop - 12, behavior: "instant" })
+        inner.scroll({ top: heading.offsetTop - 12, behavior: "instant" })
       }
+    } else {
+      inner.scroll({ top: 0, behavior: "instant" })
     }
   }
 
