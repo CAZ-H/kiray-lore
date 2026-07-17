@@ -7,19 +7,39 @@ Tinit is a common name for a family of horizontal bipedal scavengers, as well as
 
 ## Taxonomy
 
-While the Tinit is the most common member of a family of horizontally oriented bipedal creatures, it is also the family term for an extended collection of alike creatures. This family has also been referred to as "T-nits" or "Nits".
+While the Tinit is the most common member of a family of horizontally oriented bipedal creatures, it is also the family term for an extended collection of alike creatures. This family can be referred to as "T-nits" or "Nits".
 
 This family contains various specializations such as the Tonit and the Tenit which are directly related to and are differentiated from Tinits by minor changes in their morphology and behavior. These creatures are known as "true Tinits", as they are often capable of cross-breeding with limited success.
 
-This family also contains creatures that have significantly diverged from the true Tinit line and are entirely different species. These creatures may have similar body-plans, but have significant differences in morphology and behavior, such as the Vorkono.
+Creatures known as "false Tinits" also exist. These creatures are distantly related to true Tinits, but have significantly diverged and are now entirely different species. These creatures may have similar body-plans, but have significant differences in morphology and behavior, such as the Vorkono.
 
 ## Morphology
 
-A Tinit is a horizontally oriented bipedal creature with a short tail and a forwards-pointed head.
+### General Anatomy
 
-True Tinits generally have one large eye on top of the head, two whiskers on the underside of the head, a vertically-opening 2-part beak that can be shaped differently depending on diet, a short pointed tail, and a thick chitinous shell protecting their backs. They are Kirian ungulates; wherein they have small discrete toes and a pad of tough connective tissue on each foot.
+A Tinit is a horizontally oriented bipedal creature with a short tail and a forwards-pointed head, exhibiting a [[Kirian_Physiology#Pure Biped|pure biped body plan]].
 
-The typical Tinit has sky-blue leathery skin, and a red chitinous shell. Certain mutations can swap one or both of these colors. The shell covers only its back and extends to wrap around and under the tail. The beak is large and broad compared to the head, and serves as a multi-tool for both scavenging and digging with its triangular shape and edge with tiny serrations, which is useful for cutting through debris underground, or sawing through carrion.
+### Limbs and Movement
+
+**Legs:** True Tinits are [[Kirian_Physiology#Horizontal Hexapod|Kirian ungulates]], bearing small discrete toes and a pad of tough connective tissue on each foot.
+
+**Tail:** The tail is short and pointed, smoothly extending from the body.
+
+### Head and Sensory Systems
+
+**Eyes:** True Tinits generally have one large [[Kirian_Physiology#Vision|eye]] on top of the head.
+
+**Beak:** They possess a vertically-opening two-part [[Kirian_Physiology#Beaks|beak]] that can be shaped differently depending on diet. The beak is large and broad compared to the head, and serves as a multi-tool for both scavenging and digging; its triangular shape and edge of tiny serrations are useful for cutting through debris underground, or sawing through carrion.
+
+**Whiskers:** Two whiskers sit on the underside of the head, a common [[Kirian_Physiology#Facial Sensory Structures|facial sensory structure]].
+
+### Skin and Coloration
+
+True Tinits have a thick plated [[Kirian_Physiology#Skin and Coloration|chitinous carapace]] protecting their backs, adorned with hereditary arrangements of bumps and ridges. The typical Tinit has sky-blue leathery skin and a red chitinous carapace, though certain mutations can swap one or both of these colors.
+
+### Internal Physiology
+
+Tinits are generally unremarkable, and possess a [[Kirian_Physiology#Circulatory System|typical circulatory system]], a [[Kirian_Physiology#Respiratory System|typical respiratory system]], and the [[Kirian_Physiology#Reproductive System|typical reproductive system]] for Kirian vertebrates.
 
 ## Behavior
 
@@ -45,15 +65,13 @@ They can produce various sounds, including chirps, squawks, and clicks. These ca
 
 Tinits engage in simple social displays to show off their strength and good health. These displays often include tightly coordinated movements and trilling vocalizations.
 
-As with most Kirian creatures, Tinits possess the [[Kirian_Physiology#Reproductive System|typical reproductive system]] for Kirian vertebrates.
-
 A single Tinit will lay 2–4 eggs in a clutch, and young are fully grown after half of a Kirian year. Tinits will reproduce at most twice per year.
 
 Tinits practice communal nesting, where eggs are laid in a shared nesting burrow, and colony members collectively guard and maintain them. Juvenile Tinits are also cared for by multiple adults with no single parent responsible. This communal approach ensures that young Tinits are always cared for.
 
 ### Foraging and Feeding Habits
 
-Tinits are opportunistic scavengers with a highly adaptable diet. They consume a wide variety of organic matter, including insects and other small invertebrates; fresh meat from opportunistic finds; carrion at varying stages of decay; fruit, particularly those that are overripe or decaying; and detritus, including shed skin, exoskeletons, and shells, egg casings, and other byproducts of larger creatures.
+Tinits are opportunistic scavengers with a highly adaptable diet. They consume a wide variety of organic matter, including insects and other small invertebrates; fresh meat from opportunistic finds; carrion at varying stages of decay; fruit, particularly those that are overripe or decaying; and detritus, including shed skin, exoskeletons, carapaces, egg casings, and other byproducts of larger creatures.
 
 They are typically cathemeral, active at various times throughout both the day and the night. A Tinit colony always has some members active while the others rest, following a staggered pattern. This reduces their risk of predation, and increases their foraging and scavenging efficacy.
 
@@ -63,10 +81,10 @@ Tinits will also use their serrated beak to dig into the ground, searching for b
 
 ## Lifespan
 
-The average lifespan for a Tinit is 5–8 Kirian years, however some have lived as long as 12. Most Tinits die of predation, rather than age-related causes.
+The average lifespan for a Tinit is 5–8 Kirian years in the wild, but they can live as long as 12 Kirian years in the absence of predation. However, most Tinits die of predation, rather than age-related causes.
 
 ## Distribution and Habitat
 
-> TODO: specify what kind of plants or soil types they prefer; that they don't generally like to nest underground; general areas they prefer over others and places they generally avoid; do they like the volcano? do they like heat or dislike it? how do they feel about moist environments?
+Tinits are widespread and found almost globally, though they are most abundant in the equatorial band, where carrion and detritus are richest, and are sparse toward the colder, food-poor high latitudes. They tolerate a wide range of terrain — forests, grasslands, swamps, canyons, and certain cave arrangements, though they favor relatively elevated ground soft enough to dig colony burrows into, or broken enough to offer crevices for caching food.
 
-Tinits are widespread and can be found almost globally. They are commonly found in forests, grasslands, swamps, canyons, and certain cave arrangements.
+Their speed and burrowing tendencies provide them safety and shelter from wildfire and floods. Those burrows also offer cool refuge through the hottest hours of the long afternoon. 

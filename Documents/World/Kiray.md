@@ -17,6 +17,9 @@ Kiray is [[Kete|Kete's]] largest moon, and also a life-sustaining, rich world in
 
 To the naked eye, sunlight on Kiray appears warm white to pale orange.
 
+To calculate Earth years from Kirian years, the formula is `Earth years = Kirian years * (204 / 365.25)`.
+To calculate Kirian years from Earth years, the formula is `Kirian years = Earth years * (365.25 / 204)`.
+
 ![[NEED_UPDATE_KirayOrbit.png|300]]
 *Map of Kiray orbiting Kete (Needs Update)*
 
@@ -27,7 +30,7 @@ To the naked eye, sunlight on Kiray appears warm white to pale orange.
 | Density | 6.05 g/cm³ | 110% | 5.51 g/cm³ |
 | Gravity | 9.70 m/s² | 99% | 9.81 m/s² |
 | Day (Kete-synchronous) | 3.6 days / 86.5 hours | 360% | 1 day / 24 hours |
-| Year | 204 days | 56% | 365 days |
+| Year | 204 days | 56% | 365.25 days |
 | Orbital Eccentricity (around Kete) | 0.006 | - | - |
 
 ### Interaction with Kete
