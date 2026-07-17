@@ -60,9 +60,9 @@ Skiedons continuously shed over time as they grow, but will sometimes go through
 
 ### Internal Physiology
 
-**Circulatory System:** Skiedons possess a [[Kirian_Physiology#Circulatory System|typical Kirian circulatory system]], with densely concentrated hemocyanin to support their high-activity arboreal lifestyle. Their blood is a deeper blue than the blue of hemocyanin found on Earth. Their hearts are strong and beat quickly to service the oxygen demand of a body held at elevated canopy temperatures, and this sustained cardiac work is the primary reason their natural lifespan is shorter than their size would otherwise suggest.
+**Circulatory System:** Skiedons possess a [[Kirian_Physiology#Circulatory System|typical Kirian circulatory system]], with densely concentrated hemocyanin to support their high-activity arboreal lifestyle. Their blood is a deeper blue than the blue of hemocyanin found on Earth. Their hearts are strong and beat quickly to service the oxygen demand of a body held above its regulated temperature, and this sustained cardiac work is the primary reason their natural lifespan is shorter than their size would otherwise suggest.
 
-**Respiratory System:** Like most Kirian organisms, possess a [[Kirian_Physiology#Respiratory System|typical Kirian respiratory system]] which consists of a pair of symmetrical lungs supported by air sacs that force a unidirectional airflow over respiratory tissues, allowing for a steady flow of fresh air through the lungs. 
+**Respiratory System:** Like most Kirian organisms, Skiedons possess a [[Kirian_Physiology#Respiratory System|typical Kirian respiratory system]] which consists of a pair of symmetrical lungs supported by air sacs that force a unidirectional airflow over respiratory tissues, allowing for a steady flow of fresh air through the lungs. 
 
 A consequence of this design is that Skiedons are capable of long sustained sounds, and speech can be fluid with little need for pause. Heavy physical activity can also force the air sacs that feed the lungs to pump air more aggressively as the Skiedon moves its shoulders, recycling the effort expended during brief bursts of intense activity, providing an oxygen boost.
 
@@ -74,20 +74,12 @@ A consequence of this design is that Skiedons are capable of long sustained soun
 
 Skiedons are highly social and intelligent, with communication modes involving vocalization in complex language and display using facial features and body language.
 
-**Language:** Skiedons speak [[Skiedonic]], a common tongue shared almost globally, which is likely a remnant of their once globe-spanning cooperative civilization. The largest of the tribal communities on the fringes of the old Skiedonic city sprawl mostly use this common version of Skiedonic, while smaller, lesser-contacted tribes seem to have their own dialects with altered pronounciations and differing words.
+**Language:** Skiedons speak [[Skiedonic]], a common tongue shared almost globally, which is likely a remnant of their once globe-spanning cooperative civilization. The largest of the tribal communities on the fringes of the old Skiedonic city sprawl mostly use this common version of Skiedonic, while smaller, lesser-contacted tribes seem to have their own dialects with altered pronunciations and differing words.
 
 **Facial Display:** Facial expression is facilitated through the eyelids, beak, various facial muscles, and the crest tendrils which extend and change posture in response to emotional state or social hierarchy.
 
-## Foraging and Feeding Habits
-
- TODO
-
 ## Lifespan
 
-The average lifespan of a **tribal** Skiedon is approximately 90 Kirian years, or about 50 Earth years, though this figure is pulled down considerably by juvenile mortality, illness, falls, fatal accidents, and predation; healthy individuals who reach maturity commonly live to around 110 Kirian years, or roughly 61 Earth years. The limiting factor is heat rather than disease, because a tribal Skiedon at rest sits at the ambient temperature of the equatorial canopy, and a body held at that temperature runs its metabolism fast, consuming fuel at a high rate and working the heart hard for every hour of its life.
+The average lifespan of a **tribal** Skiedon is approximately 90 Kirian years, or about 50 Earth years, though this figure is pulled down considerably by heat exposure, juvenile mortality, illness, falls, fatal accidents, and predation; healthy individuals who reach maturity commonly live to around 110 Kirian years, or roughly 61 Earth years.
 
-However, there is evidence that the Skiedons of the **late civilization** lived to as old as 130 Kirian years, or about 73 Earth years, with exceptional individuals reaching 150 Kirian years, roughly 84 Earth years. Medicine accounts for part of this, but the greater share is attributed to climate control. Conditioned air was both cooler and drier than the canopy. Cooler air slows the resting metabolism of Kirian organisms, while drier air improves the efficacy of the evaporative heat-dumping reflex Kirian organisms possess which Kiray's humid atmosphere otherwise often  defeats. A Skiedon who spent its life in such environments would therefore run at a lower temperature than any wild Skiedon could achieve, and across decades makes a measurable difference in lifespan. This benefit scaled by proximity to the industrial core, where inhabitants performed little manual labor and spent more time inside conditioned interiors; individuals living in agricultural villages and near the outskirts lived considerably shorter lives, closer to the lifespan of tribal Skiedons today.
-
-### Culture and Clans
-
-TODO
+However, there is evidence that the Skiedons of the **late civilization** lived to as old as 130 Kirian years, or about 73 Earth years, with exceptional individuals reaching 150 Kirian years, roughly 84 Earth years. Medicine and climate control likely accounts for a large part of this. Conditioned air was both cooler and drier than the canopy. A wild Skiedon spends the long afternoon warmer than its body would otherwise hold, because the canopy air is warmer than the temperature it regulates toward and too humid to shed heat into. Cooler air relieves that heat stress, while drier air improves the efficacy of the evaporative heat-dumping reflex Kirian organisms possess which Kiray's humid atmosphere otherwise often defeats. Conditioned air was therefore the first environment in which a Skiedon could hold its regulated temperature rather than being carried above it, and across decades this would make a measurable difference in their lifespan. This benefit also scaled by proximity to the industrial core, where inhabitants performed little manual labor and spent more time inside conditioned interiors; individuals living in agricultural villages and near the outskirts lived considerably shorter lives, closer to the lifespan of tribal Skiedons today.

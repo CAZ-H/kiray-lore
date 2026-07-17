@@ -20,7 +20,7 @@ Tripartite body structuring divides the body into three distinct segments (analo
 
 ## Common Body Plans
 
-Kirian vertebrates exhibit several recurring body plans. The most widespread is hexapodal (six limbs arranged in bilateral symmetry along a segmented spine) in various orientations, but limbless forms and forms with fewer limbs also exist. Tails are present in the majority of species and serve a wide variety of functions, including balance, communication, and in some species, grasping, propulsion, or locomotion. Though a hexapodal configuation is the most widespread, there are many species where one pair of limbs has become vestigial or has been reduced or repurposed significantly.
+Kirian vertebrates exhibit several recurring body plans. The most widespread is hexapodal (six limbs arranged in bilateral symmetry along a segmented spine) in various orientations, but limbless forms and forms with fewer limbs also exist. Tails are present in the majority of species and serve a wide variety of functions, including balance, communication, and in some species, grasping, propulsion, or locomotion. Though a hexapodal configuration is the most widespread, there are many species where one pair of limbs has become vestigial or has been reduced or repurposed significantly.
 
 ### Horizontal Hexapod
 
@@ -82,13 +82,17 @@ A keratinized beak is a near-universal feature among Kirian vertebrates. Beak mo
 
 The crest of the beak is also commonly host to part of the reproductive system, a reproductive gland which is used to fertilize recently-laid eggs.
 
+## Endothermy
+
+The majority of Kirian organisms are endothermic despite the tropical nature of Kiray. This is because of the length of Kiray's day. Forty-four hours of darkness is long enough that even near the equator, the ground and air sheds most its heat before dawn, and an organism whose temperature matched the air temperature would spend half of every day too cold to move. Endothermy is what allows Kirian organisms to remain active across the whole of the long night, and it is the reason no strict division between diurnal and nocturnal behavior exists on Kiray. The cost is paid through the long afternoon, when a body producing its own heat must shed it into air that is already hot and fully humid.
+
 ## Circulatory System
 
 Most Kirian organisms possess a **four-chambered heart** that beats continuously to circulate oxygenated blood.
 
 **Hemocyanin**, a copper-containing protein, is the dominant oxygen-transport molecule in Kirian vertebrate blood. This is in contrast to the iron-based hemoglobin found in Earth vertebrates. This is a consequence of Kiray's copper-enriched crust and oceans, which made copper biologically abundant during the early evolution of complex life. 
 
-Copper carries less oxygen per unit of blood than iron does, and on Earth this strongly limits the organisms that rely upon it. Earth's hemocyanin is carried loose in the blood, where the quantity that can be dissolved is limited long before it approaches the oxygen capacity of hemoglobin. Kirian vertebrates worked around this limitation early in their evolution by packaging their hemocyanin within dedicated blood cells rather than dissolving it. Freed from the saturation limit, Kirian blood concentrates far more of the protein than is possible on Earth, approaching the oxygen capacity of iron-based blood, but not matching it entirely. This is also why Kirian blood is so richly colored, as a given volume reflects a lot more blue light. This encapsulation of the protein causes Kirian blood to appear opaque rather than clear, and range in color from a milky pale grey-blue when deoxygenated to a deeper blue or blue-violet when oxygenated. 
+Copper carries less oxygen per unit of blood than iron does, and on Earth this strongly limits the organisms that rely upon it. Earth's hemocyanin is carried loose in the blood, where the quantity that can be dissolved is limited long before it approaches the oxygen capacity of hemoglobin. Kirian vertebrates worked around this limitation early in their evolution by packaging their hemocyanin within dedicated blood cells rather than dissolving it. Freed from the saturation limit, Kirian blood concentrates far more of the protein than is possible on Earth, approaching the oxygen capacity of iron-based blood, but not matching it entirely. This is also why Kirian blood is so richly colored. This encapsulation of the protein causes Kirian blood to appear opaque rather than clear, and range in color from a milky pale grey-blue when deoxygenated to a deeper blue or blue-violet when oxygenated. 
 
 ![[assets/BloodColors.png|600]]
 *Blood Color of Kirian Organisms at Varying Oxygen Saturation*
@@ -98,19 +102,19 @@ This blood cell construction reduces the efficiency of transferring oxygen from 
 ![[assets/MuscleColors.png|600]]
 *Muscle Color at Varying Oxygen Saturation*
 
-### Heat Management
-
 What remains of the oxygen capacity deficiency is offset entirely by the atmosphere. Kiray's air is both denser and richer in oxygen than Earth's, presenting roughly 40% more oxygen pressure at the surface, and Kirian unidirectional lungs extract it much more efficiently. Oxygen is therefore not a limiting resource for Kirian life; if anything, Kirian organisms are better supplied with oxygen than organisms on Earth, which is a big contributing factor to the large body sizes and high activity levels observed across the biosphere. 
 
-Due to Kiray's high humidity reducing the efficacy of evaporative cooling, heat is the main constraint upon Kirian physiology. Metabolic rate climbs steeply with body temperature, roughly doubling for every 10 degrees. In the equatorial band, where the majority of Kirian life is concentrated and temperatures are highest, this means bodies run hot and burn calories and oxygen at a high rate, which works the heart hard and accumulates cellular stress. Resultingly, the temperature of the environment reduces the natural lifespan of Kirian organisms accordingly. Conversely, cooler environments extend it, an organism living in cooler air has a slower metabolism and lives longer. Kirian species compensate for the heat stress and oxygen demand of a body running hot with strong hearts, high blood volume, and high-capacity arteries. During periods of extreme heat, Kirian organisms can also enter a form of hibernation where they shut down their endothermy and pause their metabolism and gut to control excessive body heat. 
+### Heat Management
+
+Due to Kiray's high humidity reducing the efficacy of evaporative cooling, heat is the main constraint upon Kirian physiology. Metabolic rate climbs steeply with body temperature, roughly doubling for every 10 degrees. Kirian organisms regulate toward a body temperature near the cool end of the equatorial range. Through the long afternoon the air is warmer than this, so they absorb heat rather than shed it, and are carried above the temperature they would otherwise hold. In the equatorial band, where the majority of Kirian life is concentrated and temperatures are highest, this means bodies run hot and burn calories and oxygen at a high rate, which works the heart hard and accumulates cellular stress. Accordingly, the temperature of the environment reduces the natural lifespan of Kirian organisms. Conversely, cooler air allows an organism to hold its regulated temperature, and to live longer for it. Cold air carries no such penalty; an organism below its regulated temperature must burn fuel to stay warm, but its body is held at that temperature regardless, so cold costs food rather than years. Kirian species compensate for the oxygen demand of a body running hot with strong hearts, high blood volume, and high-capacity arteries.
 
 Behavioral thermoregulation is therefore the norm. Kirian vertebrates possess a heat-dumping mechanism similar to gular fluttering in Earth birds, but its usefulness is limited by Kiray's humidity, as the equatorial air sits near saturation for much of the day, and evaporation is of little use in air already full of water. Bathing and wallowing is consequently the primary means of shedding heat across most of the biosphere, since water draws heat away by direct contact regardless of humidity. Shade-seeking, burrowing, activity timing, and other creative behaviors account for the remainder.
 
-The practical consequence is that sustained activity is limited by the ability to shed the heat that activity generates. Most Kirian species are accordingly built around short, intense bursts of movement followed by a period of cooling, a pattern visible in body plans across the planet. During cold periods, such as the extended night period on the anti-Kete hemisphere, Kirian organisms are capable of generating sufficient body heat at greater metabolic cost, leading to behaviors such as food caching, and night-time hunting.
+The practical consequence is that sustained activity is limited by the ability to shed the heat that activity generates. Most Kirian species are accordingly built around short, intense bursts of movement.
 
 ## Respiratory System
 
-A near-universal feature of Kirian vertebrate respiration is a **unidirectional airflow** system supported by air sacs. Rather than the in-and-out breathing pattern common on Earth, Kirian lungs are filled by a set of staggered air sacs that act as bellows, pushing air through the lungs in a continuous one-way flow. This is a  highly efficient system for extracting oxygen, as it allows for near-constant gas exchange with fresh air, and means that Kirian lungs never contain stale air.
+A near-universal feature of Kirian vertebrate respiration is a **unidirectional airflow** system supported by air sacs. Rather than the in-and-out breathing pattern common on Earth, Kirian lungs are filled by a set of staggered air sacs that act as bellows, pushing air through the lungs in a continuous one-way flow. This is a highly efficient system for extracting oxygen, as it allows for near-constant gas exchange with fresh air, and means that Kirian lungs never contain stale air.
 
 As a Kirian organism breathes in, it fills the first chamber of the air sacs; simultaneously it is exhaling from the second chamber of the air sacs, through the lung structures, and out through the mouth; between breaths there is a short pause as the air in the air sacs transfer chambers.
 
