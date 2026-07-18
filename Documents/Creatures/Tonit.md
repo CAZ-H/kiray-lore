@@ -7,14 +7,18 @@ Tonits are members of the [[Tinit#Taxonomy|true Tinit]] family, differentiated b
 It is thought that they arose from a common mutation which found its own niche.
 
 ![[Tonit.png|500]]
+*Tonit Body Diagram*
 
 ## Morphology
 
 ### General Anatomy
 
-A Tonit is a horizontally oriented bipedal creature with a short tail and a forwards-pointed head, exhibiting a [[Kirian_Physiology#Pure Biped|pure biped body plan]].
+A Tonit is a horizontally oriented bipedal creature with a short tail and a forwards-pointed head, exhibiting a [[Kirian_Physiology#Pure Biped|pure biped body plan]]. Tonits are slightly smaller than Tinits despite their more aggressive nature, giving them a slight advantage for making quick escapes. They are around 16 centimeters long and 8 centimeters wide and tall, on average.
 
 Their anatomy is almost identical to [[Tinit|Tinits]] in every way.
+
+![[TinitFamily.png|500]]
+*Tinit Family*
 
 ### Skin and Coloration
 

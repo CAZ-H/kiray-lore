@@ -6,6 +6,7 @@ title: Tinit
 Tinit is a common name for a family of horizontal bipedal scavengers, as well as the name for the most common species of this family. These creatures are notable for their adaptable diet and widespread distribution.
 
 ![[Tinit.png|500]]
+*Tinit Body Diagram*
 
 ## Taxonomy
 
@@ -15,11 +16,14 @@ This family contains various specializations such as the Tonit and the Tenit whi
 
 Creatures known as "false Tinits" also exist. These creatures are distantly related to true Tinits, but have significantly diverged and are now entirely different species. These creatures may have similar body-plans, but have significant differences in morphology and behavior, such as the Vorkono.
 
+![[TinitFamily.png|500]]
+*Tinit Family*
+
 ## Morphology
 
 ### General Anatomy
 
-A Tinit is a horizontally oriented bipedal creature with a short tail and a forwards-pointed head, exhibiting a [[Kirian_Physiology#Pure Biped|pure biped body plan]].
+A Tinit is a horizontally oriented bipedal creature with a short tail and a forwards-pointed head, exhibiting a [[Kirian_Physiology#Pure Biped|pure biped body plan]]. Tinits are quite small, only about 20 centimeters long, and 10 centimeters wide and tall, on average.
 
 ### Limbs and Movement
 

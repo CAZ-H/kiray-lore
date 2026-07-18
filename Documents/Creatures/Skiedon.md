@@ -37,7 +37,7 @@ Their skeletal structure is lightweight but strong, with an emphasis on tensile 
 
 **Eyes:** Each side of the head hosts a large main eye and a smaller sub-eye located a little behind and below. The main eyes provide high-resolution colored frontal vision, while the secondary eyes are tuned to detect motion, rapid contrast changes, and are sensitive to low-light conditions, but have lower resolution and color acuity. This configuration gives Skiedons a very wide field of view, as well as enhanced depth perception from the sides. Skiedons can see 30 degrees in forwards-facing high-resolution binocular vision with a blind spot above the beak, 60 degrees in side-facing binocular vision tuned for detecting motion, and overall can see within a range of 260 degrees around the head. Only 10 degrees of the range furthest behind the head is seen by just one sub-eye.
 
-![[NEED_UPDATE_SkiedonVision.png]]
+![[SkiedonVision.png]]
 *Skiedon Vision Diagram (Needs Update)*
 
 **Chin & Crest Tendrils:** Two fleshy chin tendrils extend downward from the lower jaw. For Skiedons, upon the ridge of the beak is the reproductive crest, a soft tissue structure that houses two tall, flexible tendrils. Both sets of these tendrils are nerve-rich sensory structures, used for detecting air motion, limited olfaction tuned for hormones, communication, and mating display. Both the chin tendrils and upper tendrils are capable of partially retracting for protection during fast travel and times of danger. These protrusions are [[Kirian_Physiology#Facial Sensory Structures|common for Kirian organisms.]]
