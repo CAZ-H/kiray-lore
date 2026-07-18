@@ -13,7 +13,7 @@ It is thought that they arose from a common mutation which found its own niche.
 
 ### General Anatomy
 
-A Tonit is a horizontally oriented bipedal creature with a short tail and a forwards-pointed head, exhibiting a [[Kirian_Physiology#Pure Biped|pure biped body plan]]. Tonits are slightly smaller than Tinits despite their more aggressive nature, giving them a slight advantage for making quick escapes. They are around 16 centimeters long and 8 centimeters wide and tall, on average.
+A Tonit is a horizontally oriented bipedal creature with a short tail and a forwards-pointed head, exhibiting a [[Kirian_Physiology#Pure Biped|pure biped body plan]] with a [[Kirian_Physiology#Continuous Structure|continuous body structure]]. Tonits are slightly smaller than Tinits despite their more aggressive nature, giving them a slight advantage for making quick escapes. They are around 16 centimeters long and 8 centimeters wide and tall, on average.
 
 Their anatomy is almost identical to [[Tinit|Tinits]] in every way.
 
@@ -49,3 +49,6 @@ The average lifespan for a Tonit is 4-6 Kirian years in the wild, but they can l
 ## Distribution and Habitat
 
 Tonits are generally found in the [[Tinit#Distribution and Habitat|same environments as Tinits]], but concentrate more heavily in regions where small ground-nesting species live. 
+
+---
+*<small>Kiray Archive // KA-BIO-TON // @ CS Harrow // Confidential</small>*

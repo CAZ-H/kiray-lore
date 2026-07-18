@@ -18,3 +18,6 @@ Kete hosts a large family of moons. Kiray is the largest, but several smaller ir
 | Location | 0.63 AU |
 | Orbital Eccentricity | 0.023 |
 | Hill Sphere | 0.04 AU / 6 million km |
+
+---
+*<small>Kiray Archive // KA-SUR-KET // @ CS Harrow // Confidential</small>*

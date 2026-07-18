@@ -173,3 +173,6 @@ This reflects the atmospheric conditions of Kiray: its denser atmosphere transmi
 ### Olfaction
 
 Olfaction in most species is closely integrated with respiration, with chemosensory tissue located in or near the breathing holes, embedded in the frontal skull and partially recessed into the base of the beak, similar to nostrils. This use of the inhalation passage for scent detection is common.
+
+---
+*<small>Kiray Archive // KA-BIO-PHY // @ CS Harrow // Confidential</small>*

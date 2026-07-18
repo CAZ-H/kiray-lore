@@ -13,7 +13,7 @@ Where [[Tinit|Tinits]] and [[Tonit|Tonits]] are small and highly social, Tenits 
 
 ### General Anatomy
 
-A Tenit is a horizontally oriented bipedal creature with a short tail and a forwards-pointed head, exhibiting a [[Kirian_Physiology#Pure Biped|pure biped body plan]].
+A Tenit is a horizontally oriented bipedal creature with a short tail and a forwards-pointed head, exhibiting a [[Kirian_Physiology#Pure Biped|pure biped body plan]] with a [[Kirian_Physiology#Continuous Structure|continuous body structure]].
 
 Tenits share the general anatomy of [[Tinit|Tinits]], but are several times larger, on average around 45 centimeters long and 20 centimeters wide and tall, making Tinits and Tonits almost half as large by comparison.
 
@@ -59,3 +59,6 @@ The average lifespan for a Tenit is around 8–11 Kirian years in the wild, long
 ## Distribution and Habitat
 
 Tenits are found in the [[Tinit#Distribution and Habitat|same broad environments as Tinits]], but spend most of their lives underground, emerging to hunt and scavenge. They favor ground soft enough to burrow through, and concentrate where Tinits, Tonits, and other small prey are plentiful.
+
+---
+*<small>Kiray Archive // KA-BIO-TEN // @ CS Harrow // Confidential</small>*

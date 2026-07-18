@@ -142,3 +142,6 @@ The Zorn rely on a combination of physical force, psychological manipulation, an
 **Information Control:** Slaves are deliberately kept ignorant of the ship's overall function or destination, receiving only the information necessary to perform their assigned tasks.
 
 **Redundancy & Expendability:** The Zorn build redundancy into every system. The death, incapacitation, or rebellion of a slave is met with immediate replacement. No individual slave has the ability to cause significant problems within the scope of their own assigned job area. Slaves that must work together in a group are extremely tightly controlled.
+
+---
+*<small>Kiray Archive // KA-BIO-ZOR // @ CS Harrow // Confidential</small>*

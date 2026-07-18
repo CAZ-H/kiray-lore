@@ -4,14 +4,14 @@ title: Skiedon
 
 Skiedons are a sapient, arboreal reptiloid species that evolved in the canopy biomes of Kiray. Skiedons are compact and muscular, adapted for vertical movement within dense, multi-tiered forest environments. Their anatomy is specialized for stability, dexterity, and sensory breadth, and is well-suited for navigating narrow, unstable terrain, high above the ground. 
 
-They possess a [[Kirian_Physiology#Continuous Structure|continuous body structure]] in a [[Kirian_Physiology#Vertical Hexapod|vertical hexapod arrangement]].
-
 ![[Skiedon.png]]
 *Skiedon Body Diagram*
 
 ## Morphology
 
 ### General Anatomy
+
+Skiedons possess a [[Kirian_Physiology#Continuous Structure|continuous body structure]] in a [[Kirian_Physiology#Vertical Hexapod|vertical hexapod arrangement]].
 
 Skiedons are digitigrade bipeds with a low center of gravity and muscular limbs. Adults typically stand between 1 and 1.6 meters tall, with proportions optimized for balance and limb coordination rather than height or stride length. Their short, dense musculature and flexible joints that accommodate some degree of hyperextension allow for extended periods of climbing, hanging, and crouching.
 
@@ -83,3 +83,6 @@ Skiedons are highly social and intelligent, with communication modes involving v
 The average lifespan of a **tribal** Skiedon is approximately 90 Kirian years, or about 50 Earth years, though this figure is pulled down considerably by heat exposure, juvenile mortality, illness, falls, fatal accidents, and predation; healthy individuals who reach maturity commonly live to around 110 Kirian years, or roughly 61 Earth years.
 
 However, there is evidence that the Skiedons of the **late civilization** lived to as old as 130 Kirian years, or about 73 Earth years, with exceptional individuals reaching 150 Kirian years, roughly 84 Earth years. Medicine and climate control likely accounts for a large part of this. Environment cooling techniques and technology would have relieved chronic heat stress brought on during the long afternoons, and across decades this would make a measurable difference in their lifespan. Despite access to medicine, individuals who lived in agricultural villages and near the outskirts would spend more time outdoors, and were found to have lived considerably shorter lives which were closer to the lifespan of tribal Skiedons today.
+
+---
+*<small>Kiray Archive // KA-BIO-SKI // @ CS Harrow // Confidential</small>*

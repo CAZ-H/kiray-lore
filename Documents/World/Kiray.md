@@ -243,3 +243,6 @@ Animal life has evolved behavioral and physiological strategies to cope with fas
 Fire is especially dangerous to non-native organisms because of the spores in the air. In Kiray's oxygen-rich environment, fires burn more completely, producing dense smoke thick with fine particulates and spores released from burning vegetation. Inhaling this smoke sharply increases spore adhesion in non-native airways, accelerating inflammation and impairing oxygen exchange. Without filtration, wildfire smoke is often rapidly debilitating or lethal.
 
 Native fauna are far less affected. Many possess fine, gill-like respiratory filters that trap particulates and spores before they reach sensitive tissue, letting them tolerate smoky conditions that would incapacitate an unadapted organism.
+
+---
+*<small>Kiray Archive // KA-SUR-KIR // @ CS Harrow // Confidential</small>*

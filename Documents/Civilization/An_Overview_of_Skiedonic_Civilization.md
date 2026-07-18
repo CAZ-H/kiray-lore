@@ -71,3 +71,6 @@ By the end of Skiedonic civilization, iron was mostly reserved for niche applica
 # Post-Zorn Civilization
 
 TODO
+
+---
+*<small>Kiray Archive // KA-CIV-CIV // @ CS Harrow // Confidential</small>*

@@ -29,3 +29,6 @@ The bioweapon the Zorn unleashed, though originally designed for an entirely dif
 Thousands of years have passed since then, and neither the Greater Skiedonic Nation nor the Zorn have returned. In the absence of their once-great civilization, Skiedonic society has reverted to tribal settlements. With so much destruction and without widespread communication or trade, knowledge of the old world has faded with each generation. Only the most practical skills and the most terrifying legends have survived the test of time. The culture of the past is gone, replaced by a new way of life shaped by struggle and isolation. The strongest enduring remnant of the old world is the Skiedonic language, a fractured, tattered version of what it once was, still recognizable but changed.
 
 Given enough time, it's possible this new world may rise to greatness once more.
+
+---
+*<small>Kiray Archive // KA-REC-FAL // @ CS Harrow // Confidential</small>*

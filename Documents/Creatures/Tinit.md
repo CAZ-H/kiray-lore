@@ -23,7 +23,7 @@ Creatures known as "false Tinits" also exist. These creatures are distantly rela
 
 ### General Anatomy
 
-A Tinit is a horizontally oriented bipedal creature with a short tail and a forwards-pointed head, exhibiting a [[Kirian_Physiology#Pure Biped|pure biped body plan]]. Tinits are quite small, only about 20 centimeters long, and 10 centimeters wide and tall, on average.
+A Tinit is a horizontally oriented bipedal creature with a short tail and a forwards-pointed head, exhibiting a [[Kirian_Physiology#Pure Biped|pure biped body plan]] with a [[Kirian_Physiology#Continuous Structure|continuous body structure]]. Tinits are quite small, only about 20 centimeters long, and 10 centimeters wide and tall, on average.
 
 ### Limbs and Movement
 
@@ -94,3 +94,6 @@ The average lifespan for a Tinit is 5–8 Kirian years in the wild, but they can
 Tinits are widespread and found almost globally, though they are most abundant in the equatorial band, where carrion and detritus are richest, and are sparse toward the colder, food-poor high latitudes. They tolerate a wide range of terrain — forests, grasslands, swamps, canyons, and certain cave arrangements, though they favor relatively elevated ground soft enough to dig colony burrows into, or broken enough to offer crevices for caching food.
 
 Their speed and burrowing tendencies provide them safety and shelter from wildfire and floods. Those burrows also offer cool refuge through the hottest hours of the long afternoon. 
+
+---
+*<small>Kiray Archive // KA-BIO-TIN // @ CS Harrow // Confidential</small>*

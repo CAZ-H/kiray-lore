@@ -149,3 +149,6 @@ After **avok** or 15 (0xF) the units roll over and the sixteens position opens. 
 ## Infinity
 
 A special word, **avokaii**, is used to denote an uncountable sum and seems to be used interchangably with the concept of infinity. It is an extension of *avok*, the greatest single digit.
+
+---
+*<small>Kiray Archive // KA-CIV-NUM // @ CS Harrow // Confidential</small>*
