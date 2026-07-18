@@ -29,8 +29,10 @@ The digit **15** breaks the pattern with its own word, **avok**, rather than the
 
 In writing, Skiedons use these glyphs to refer to each value in its place, remarkably similar to how base-16 is written on Earth. 
 
-![[num0.png|20]] `0x0`  ![[num1.png|20]] `0x1`  ![[num2.png|20]] `0x2`  ![[num3.png|20]] `0x3`  ![[num4.png|20]] `0x4`  ![[num5.png|20]] `0x5`  ![[num6.png|20]] `0x6`  ![[num7.png|20]] `0x7`  
-![[num8.png|20]] `0x8`  ![[num9.png|20]] `0x9`  ![[num-a.png|20]] `0xA`  ![[num-b.png|20]] `0xB`  ![[num-c.png|20]] `0xC`  ![[num-d.png|20]] `0xD`  ![[num-e.png|20]] `0xE`  ![[num-f.png|20]] `0xF`  
+![[num0.png|20]] `0x0`  ![[num1.png|20]] `0x1`  ![[num2.png|20]] `0x2`  ![[num3.png|20]] `0x3`  
+![[num4.png|20]] `0x4`  ![[num5.png|20]] `0x5`  ![[num6.png|20]] `0x6`  ![[num7.png|20]] `0x7`  
+![[num8.png|20]] `0x8`  ![[num9.png|20]] `0x9`  ![[num-a.png|20]] `0xA`  ![[num-b.png|20]] `0xB`  
+![[num-c.png|20]] `0xC`  ![[num-d.png|20]] `0xD`  ![[num-e.png|20]] `0xE`  ![[num-f.png|20]] `0xF`  
 
 ## Place Values
 
@@ -91,7 +93,7 @@ As with the standalone digits, the suffixes for 8–15 carry a leading **t'**, t
 5. Join the surviving words with hyphens, **largest position first**.
 	- `tenit-ekit'qi-toni'ka-tor'zir`
 
-A number below sixteen is a single digit, written as its digit-word alone.
+Note: A number below sixteen is a single digit, written as its digit-word alone.
 
 ## Reading a Number
 
@@ -108,6 +110,15 @@ Reverse the process:
 	- `1` `D` `0` `7` `E`
 5. Convert from base-16 to decimal. Multiply each digit by its place value and add.
 	- `65,536(16⁴) * 1` + `4,096(16³) * 13(D)` + `256(16²) * 0` + `16(16¹) * 7` + `14(E)` = 118,910
+
+## Numeral Form
+
+To write a number in numeral form, it is written using the Skiedonic glyphs just as it would appear in Earthly base-16, very conveniently.
+
+For example, the earlier `0x1D07E` example would be written as:   
+![[num1.png|20]] ![[num-d.png|20]] ![[num0.png|20]] ![[num7.png|20]] ![[num-e.png|20]]
+
+An important detail to note is that in the numeral representation, the zeroes are *not* dropped. This is because the spoken or word-written number contains enough information to infer the places due to the place-names each being different, whereas written with glyphs like this, the actual location of the glyph communicates the place.
 
 ## Examples
 
