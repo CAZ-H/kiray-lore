@@ -2,8 +2,8 @@
 title: Kete
 ---
 
-![[assets/NEEDS_UPDATE_Kete.png|300]]
-*Image of Kete (Needs Update)*
+![[Kete.png|300]]
+*Image of Kete*
 
 Kete is a large purple gas giant of approximately 350 Earth masses, and is 75,000 km in radius, which is a little larger than Jupiter. It resides in the solar system at around 0.63 AU, placing Kiray comfortably within the habitable zone. The Hill sphere of Kete is approximately 0.04 AU or 6 million km, capable of capturing and holding Kiray stable as a moon while staying within the habitable zone. Kete experiences a minor orbital eccentricity of 0.023.
 
