@@ -4,13 +4,15 @@ title: Zorn
 
 The Zorn are not native to Kiray. See [[The_Fall_of_Civilization|The Fall Of Civilization]] for a record of The Zorn's involvement in the destruction of [[An_Overview_of_Skiedonic_Civilization|Skiedonic Civilization]].
 
-# Morphology
+The Zorn are a well documented force throughout the galaxy, this information is included in this archive for completeness' sake.
 
-## External Anatomy
+## Morphology
+
+### External Anatomy
 
 Reminiscent of crab-centaurs, a Zorn's entire body is enormous, hulking, and very armored.
 
-### Limbs
+#### Limbs
 
 There are four strong legs attached to a chassis-like lower body, with a squat forward-placed upper body hosting two short muscular arms and an embedded mouthless head that cannot turn.
 
@@ -18,43 +20,43 @@ The arms are muscular, each with joints that form a shoulder, elbow, and wrist. 
 
 The legs are muscular, each with joints that form a knee and an ankle, extending outwards, then inwards, and then downwards. They end with robust hoof-like feet. Each foot is surrounded by three radially placed short toe-like structures to aid with balance.
 
-### Mouthparts
+#### Mouthparts
 
 In the middle of the upper body there are two layers of mouthparts; two large, armored, outer mouthparts hiding the mouth behind plates, and four small, internal mouthparts that look like folded arms, hosting small three-fingered claws that are capable of precisely manipulating small objects. Behind these structures is an orifice designed for holding large pieces of food and slowly crushing and shredding it with two radial rows of teeth; an outermost layer of blocky teeth for crushing and grinding, and an inner layer of harsh rasps for shredding. The small internal mouthparts adjust pieces of food within this orifice to aid in its consumption. These teeth grow continuously throughout life and require continuous wear to prevent overgrowth.
 
-### Head
+#### Head
 
 The head is flattened, smooth, and partially embedded in the upper torso. It has limited movement by itself, but a large black eye is embedded in the middle, and two semi-mobile eye stalks protrude out from the sides of the head, providing a wide range of vision. In the middle of the face, several whiskers erupt and dangle downwards where one might expect a mouth, giving the head a pointed appearance. On either side of these whiskers there are gill-like structures in the gap where the head meets the upper body. These gills are continuously moist and must remain so to be functional, however they are not capable of working fully submerged.
 
-## Internal Anatomy
+### Internal Anatomy
 
-### Skeletal and Muscular Systems
+#### Skeletal and Muscular Systems
 
 The Zorn's internal structure is a hybrid of exoskeletal and endoskeletal components. The external exoskeleton is dense, primarily composed of calcium and fortified with trace heavy platinum metals, which also contribute to the neural function of nearby muscles. Beneath the exoskeleton, an internal endoskeleton made of cartilage and calcium-based bone provides anchoring, flexibility, and support for their immense musculature. Muscles are densely packed and capable of generating immense force, especially in the arms, claws, and jaws.
 
-### Respiratory and Circulatory System
+#### Respiratory and Circulatory System
 
 Zorn breathe through lateral gill structures between the segment dividing the head from the upper body. These gills efficiently filter humid air through delicate, moist membranes to extract oxygen, but they are vulnerable to desiccation, which limits the Zorn to environments with very high humidity. These gills can be temporarily protected, drawn into the body between the armored plates of the head and chest. Internally, the gills connect to four flat air sacs that lie within the rear of their upper body. An elongated blood pumping organ runs the length of the upper body, dividing blood flow through the four air sacs. This heart moves red hemoglobin-based blood by means of muscular undulation, where the organ is compressed in a wave moving upwards, drawing blood up towards the air sacs where it is oxygenated and then sent to the rest of the body. The Zorn are cold-blooded, absorbing heat from their natural environment.
 
-### Digestive System
+#### Digestive System
 
 The Zorn's digestive system is optimized for their carnivorous and osteophagous diet. After meat and bone is shredded and crushed by dual layers of teeth, it passes through a muscular esophagus into a gizzard-like stomach located at the front of the lower body. Here, powerful muscles and ingested stones help grind down bone and meat into digestible matter. Specialized enzymes break down complex proteins and minerals for the digestive tract, which is adapted to absorb high levels of calcium and heavy metals. However, these enzymes require high heat to function, so Zorn metabolism and digestion will fail if it's not warm enough.
 
-### Nervous System
+#### Nervous System
 
 The Zorn have a very unique and partially decentralized nervous system. While they have a large primary brain located in the head, directly connected to their eye and eyestalks, clusters of neural ganglia throughout their body handle localized processing, primarily around the mouth, arms, and legs. This enhances their reflexes and allows certain motor functions to be semi-autonomous, such as the operation of their complex mouthparts. However, their fatal flaw lies in their nervous system, which relies on trace amounts of platinum-based compounds for neurotransmission. These metals are rare to find in large quantities throughout the universe, let alone on planets that support the Zorn's biology. In their original homeworld, these metals would collect in the bodies of the prey that they consumed, but now they supplement these minerals into their diet by practicing geophagy.
 
-### Sensory Systems
+#### Sensory Systems
 
 The large central eye and peripheral eyestalks provide depth perception and vision attuned for a bright environment. Though the head is not capable of turning, the whisker-like structures on their face are highly sensitive to chemical signals and air vibration, which helps compensate for this, allowing them to remain aware of their surroundings, even in low-light environments.
 
-### Reproductive System and Longevity
+#### Reproductive System and Longevity
 
 The Zorn have two sexes. They lay eggs which are fertilized externally, and must remain submerged in very mineralized, warm water. Over time, a hard calcified layer forms on the outside of the egg to protect it. Typically, one to four eggs are laid in the span of three earth years, and not usually all at once. Rarely, more than one Zorn can be born of one egg, but these offspring are typically stunted.
 
 Adults are very long lived and typically live several hundred earth years, but offspring only take months to hatch. Once hatched, a Zorn grows to full size within only a single earth year and is ravenous and insatiable throughout this entire period.
 
-## Cognition
+### Cognition
 
 Zorn develop their cognitive capacities slowly throughout their entire lives. Newly hatched Zorn will spend the first earth year of life operating on little more than instinct, limited to basic instruction, labor, and violence. During this period, they are driven by raw physicality and an insatiable need to consume and grow, but they lack higher reasoning and struggle to grasp even simple cause-and-effect relationships.
 
@@ -64,9 +66,9 @@ Zorn are natural strategists. Their strength lies in social manipulation, hierar
 
 ---
 
-# Societal Structure
+## Societal Structure
 
-## Tribal Organization on The Homeworld
+### Tribal Organization on The Homeworld
 
 Zorn society operates on an advanced tribal model, structured around a council of elder Zorn who collectively lead their tribes. This council, called the Elder Ring, consists of the oldest and most experienced members, whose physical strength may have diminished but whose accumulated wisdom is invaluable. These elders guide the tribe through consensus, drawing on centuries of practical knowledge and tradition. Decisions are made collectively, with disagreements often resolved through ritualized debates or, when necessary, controlled displays of physical dominance.
 
@@ -78,7 +80,7 @@ Interactions between tribes are typically fraught with tension. While the Elder 
 
 Despite their brutal nature, the Zorn exhibit strong loyalty. The Elder Ring enforces laws and traditions that prevent unnecessary infighting, maintaining order through a combination of respect and fear. When not engaged in labor and other matters, tribe members participate in ritualized displays of strength and skill, which serve both as a method of reinforcing the social hierarchy and as a means of honing their combat abilities. Art and other creative outlets are difficult for the Zorn, and not very appreciated, so most of their culture is based around displays of individual power and dominance.
 
-## Adaptations to a Nomadic Existence
+### Adaptations to a Nomadic Existence
 
 When the Zorn left their homeworld, several tribes were forced to merge together, which culminated in a great bloody upheaval. Their exodus into space was a desperate scramble, thrusting rival tribes into cramped proximity aboard a small collection of ships. As the Zorn were forced to abandon their world, each tribe clung fiercely to its own traditions and hierarchies, leading to immediate and brutal infighting as old grudges resurfaced and new power struggles emerged. Confined quarters turned minor disputes into deadly skirmishes, with entire ship sections becoming battlegrounds. Many elders were overthrown as younger, more aggressive Zorn seized power through violence. Over time, however, the chaos abated as only the strongest and most respected individuals and Elder Ring members prevailed, forcing rival factions into uneasy alliances. To maintain order, the Ring established harsh laws and ritualized combat to channel the Zorn's aggression constructively, forging a fragile unity.
 
@@ -92,11 +94,11 @@ Over time, Zorn ships became massive, cobbled-together vessels built from multip
 
 Enslaved species play a critical role in maintaining Zorn technology, as the Zorn themselves cannot repair or maintain advanced machinery. Instead, enslaved engineers, scientists, and laborers are forced to maintain life-support systems, repair ships, and handle other technological needs. The Zorn treat these slaves as expendable resources; when they are no longer useful, they are either repurposed as food or ejected into space. The Zorn's lack of empathy extends to all non-Zorn life, leading to horrific conditions for those under their control. Slaves are forced to comply under threat of torture, death, and the death of their peers. Disproportionate bodily threats and widespread system redundancy deter all thoughts of sabotage as it is extremely dangerous and ultimately impactless.
 
-## Slave Captivity & Exploitation
+### Slave Captivity & Exploitation
 
 The operational capacity of a Zorn vessel is entirely dependent on the forced labor of enslaved populations. It is a system of absolute control, brutal exploitation, and systematic dehumanization. Zorn ships are not designed for comfort or efficiency for their captives, but rather as mobile prisons and resource extraction platforms.
 
-### Shipboard Structure & Segregation
+#### Shipboard Structure & Segregation
 
 Zorn vessels are rarely constructed, instead being assembled from captured hulls, salvaged components, and crudely welded additions. This results in a labyrinthine and chaotic internal structure, deliberately segmented to facilitate control and minimize interaction between different slave castes. Key zones include:
 
@@ -112,7 +114,7 @@ Zorn vessels are rarely constructed, instead being assembled from captured hulls
 
 **Slave Quarters:** Cramped, unsanitary, and deliberately designed to discourage organization or rebellion. There is minimal living space, limited access to food and water, and constant surveillance. These quarters are often located against the exterior walls, in less structurally sound sections of the ship. Slaves of different castes do not sleep in the same quarters, and slaves of more valuable castes tend to have slave quarters closer to the containment & control zones of the ship, as well as the core. Servants are even sometimes treated to their own sleeping spaces within Zorn habitation areas.
 
-## Caste System & Specialization
+### Caste System & Specialization
 
 The Zorn categorize enslaved species based on perceived skills and utility, establishing a rigid caste system:
 
@@ -126,7 +128,7 @@ The Zorn categorize enslaved species based on perceived skills and utility, esta
 
 Some slaves within higher castes are treated to a higher standard of living than their peers due to their usefulness or the magnitude of the value they're currently generating. Some servants act as active informants amongst other rebellious slaves, some engineers actively work towards perfecting the Zorn's ability to reproduce all technology, and some biologists and technicians are working to discover a new homeworld that may yet support the Zorn's biology.
 
-## Enforcement & Control Mechanisms
+### Enforcement & Control Mechanisms
 
 The Zorn rely on a combination of physical force, psychological manipulation, and technology to maintain control:
 
