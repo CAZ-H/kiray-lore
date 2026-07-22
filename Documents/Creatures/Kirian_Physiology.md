@@ -112,12 +112,12 @@ Most Kirian organisms possess a **four-chambered heart** that beats continuously
 
 Hemocyanin carries less oxygen per unit of blood than hemoglobin does, and on Earth this strongly limits the organisms that rely upon it. Earth's hemocyanin is carried loose in the blood, where the quantity that can be dissolved is limited long before it approaches the oxygen capacity of hemoglobin in Earthly blood cells. Kirian vertebrates worked around this limitation early in their evolution by packaging their hemocyanin into dedicated blood cells as well. Free from the saturation limit, Kirian blood concentrates far more of the protein than is possible on Earth, approaching the oxygen capacity of iron-based blood, but not matching it entirely. This is also why Kirian blood is so richly colored. This encapsulation of the protein causes Kirian blood to appear opaque rather than clear, and range in color from a milky pale grey-blue when deoxygenated to a deeper blue or blue-violet when oxygenated. 
 
-![[assets/BloodColors.png|600]]
+![[assets/BloodColors.png]]
 *Blood Color of Kirian Organisms at Varying Oxygen Saturation*
 
 This blood cell construction reduces the efficiency of transferring oxygen from hemocyanin into tissues, which is mitigated by means of a second copper-bearing protein held within the tissues themselves, analogous to myoglobin. It is a smaller molecule which binds oxygen more tightly, drawing it out of passing blood cells and holding onto it so that it can be drawn upon faster than the blood is able to deliver it. The protein is most concentrated in skeletal muscle, where it can feed short bursts of intense movement. Sharing the copper foundation of hemocyanin, it also shares its coloration; Kirian muscle is a deep blue while loaded with oxygen, and fades to a pale grey when those reserves are spent, then recovers its color after rest.
 
-![[assets/MuscleColors.png|600]]
+![[assets/MuscleColors.png]]
 *Muscle Color at Varying Oxygen Saturation*
 
 What remains of the oxygen capacity deficiency is offset entirely by the atmosphere. Kiray's air is both denser and richer in oxygen than Earth's, presenting roughly 40% more oxygen pressure at the surface, and Kirian unidirectional lungs extract it much more efficiently. Oxygen is therefore not a limiting resource for Kirian life; if anything, Kirian organisms are better supplied with oxygen than organisms on Earth, which is a significant contributing factor to the large body sizes observed across the biosphere. 
@@ -154,11 +154,21 @@ Parental investment patterns vary widely, but communal egg care is observed acro
 
 ### Vision
 
-Kirian species have a very diverse catalog of eye arrangements, ranging from one eye to as many as eight.
+Kirian species have a very diverse catalog of eye arrangements, ranging from one eye to as many as eight. 
 
-Many Kirian vertebrates possess at least **two pairs of eyes**: a primary pair providing high-resolution, color-capable vision, and a secondary pair that is more sensitive to motion and low-light conditions, but with reduced acuity and color discrimination. Some possess only **one eye**, or have a central eye in addition to one or more pairs of eyes.
+Despite this variety, the underlying construction of the eye is broadly shared. A Kirian eye is a globe of clear jelly beneath a firm, transparent outer shell, and it is nearly black. Rather than focusing light with a discrete lens as Earth eyes do, the whole globe serves as a single lens: the jelly is densest at its core and grades to a thinner, lighter medium toward the shell, and this smooth gradient bends incoming light from almost any forward angle inward onto a curved sheet of photoreceptors lining the rear inner surface. The result is an exceptionally wide field of view, approaching a full hemisphere for each eye, which is why some species have only one. The interior is deeply pigmented and absorptive: the focused light is captured efficiently at the receptors while stray, scattered light is swallowed rather than reflected, keeping the image sharp. This near-total absorption is what gives the eye its dark, off-black appearance.
 
-Other eye configurations are similar in nature, with some eyes specializing in a way that contrasts other eye specializations, or adds depth perception or a greater field of view. In many species, the eye pairs are positioned such that they provide overlapping but distinct fields of coverage, allowing an organism to detect motion in its periphery even while focusing its primary eyes elsewhere. The positioning of eyes also varies significantly by species and ecological niche. Forward-facing arrangements favor depth perception and predation, while lateral or dorsal arrangements favor wide-field awareness and predator detection. 
+Because the entire rear surface is the focal surface, a Kirian eye is sharp across its whole field at once rather than only at a central point, and it has no equivalent of the high-acuity fovea found in Earth eyes. The tradeoff is that it can hold only one focal distance at a time. Focus is adjusted not by deforming the fixed globe, but by a ring of muscle at the eye's equator that eases the flexible photoreceptor sheet outward or inward through a thin fluid space, setting it on the focal surface for near or distant objects. To shift between near and far, a Kirian organism therefore sweeps its focus through depth rather than flicking a sharp point from object to object.
+
+The exposed surface of the globe is protected by an **iris-like sheath of skin** that rings the eye. It keeps the surface uniformly moist and shields it from abrasion, and by contracting or dilating it also acts as the eye's aperture, opening wide to gather light through the long night and closing against the glare of the long afternoon. During spore-storms, fire, danger, or sleep, the eye can retract into the head and the sheath draws fully closed over it, sealing the globe away.
+
+Kirian photoreceptors peak toward the orange and red wavelengths that dominate both Skyris's light and Kiray's surface, allowing them to discriminate the shades of teal and orange that pervade the planet's sky and flora with fine accuracy. 
+
+![[KirianOptics.png]]
+
+Many Kirian vertebrates possess at least **two pairs of eyes**: a primary pair providing high-resolution, color-capable vision, and a secondary pair more sensitive to motion and low-light conditions but with reduced acuity and color discrimination. The primary eyes tend to be larger, with densely packed photoreceptors behind their sharp, colored image, while the secondary eyes trade that density for a wider aperture and larger, sparser receptors that better catch faint light. Some possess only **one eye**, or a central eye in addition to one or more pairs.
+
+Other eye configurations are similar in nature, with some eyes specializing in a way that contrasts other eye specializations, or adds depth perception or an even greater field of view. In many species, the eye pairs are positioned such that they provide overlapping but distinct fields of coverage, allowing an organism to detect motion in its periphery even while focusing its primary eyes elsewhere. The positioning of eyes also varies significantly by species and ecological niche. Forward-facing arrangements favor depth perception and predation, while lateral or dorsal arrangements favor wide-field awareness and predator detection. 
 
 ### Facial Sensory Structures
 
