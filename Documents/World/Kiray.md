@@ -35,7 +35,7 @@ To calculate Kirian years from Earth years, the formula is `Kirian years = Earth
 
 ### Interaction with Kete
 
-Kiray orbits [[Kete]] at a distance of around 700,000 kilometers in a prograde direction, far enough that Kete's gravity does not destroy Kiray's oceans, but close enough to dominate its sky and its tides. At this distance, Kiray completes one orbit of Kete about every 86.5 hours. Because Kiray is tidally locked to Kete, this orbit is also its day: one full rotation takes 86.5 hours, or roughly three and a half Earth days, and one hemisphere permanently faces Kete while the other never sees it. At 0.63 AU, a year on Kiray is approximately 204 Earth days, or about 57 Kiray days.
+Kiray orbits [[Kete]] at a distance of around 700,000 kilometers in a prograde direction, far enough that Kete's gravity does not destroy Kiray's oceans, but close enough to dominate its sky and its tides. At this distance, Kiray completes one orbit of Kete about every 86.5 hours. Because Kiray is tidally locked to Kete, this orbit is also its day: one full rotation takes 86.5 hours, or roughly three and a half Earth days, and one hemisphere permanently faces Kete while the other never sees it. At 0.6216 AU, a year on Kiray is approximately 204 Earth days, or about 57 Kiray days.
 
 On the Kete-facing hemisphere, Kete hangs fixed in the sky, appearing roughly 20 times larger than Earth's moon, or about 10-12 degrees wide. The night here is never fully dark, sunlight reflecting off Kete's clouds casts a soft orange and purple glow across the sky. Tides on this hemisphere are also stronger, held in a permanent bulge beneath Kete.
 
