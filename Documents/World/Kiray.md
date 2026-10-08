@@ -17,8 +17,8 @@ Kiray is [[Kete|Kete's]] largest moon, and also a life-sustaining, rich world in
 
 To the naked eye, sunlight on Kiray appears warm white to pale orange.
 
-To calculate Earth years from Kirian years, the formula is `Earth years = Kirian years * (204 / 365.25)`.
-To calculate Kirian years from Earth years, the formula is `Kirian years = Earth years * (365.25 / 204)`.
+To calculate Earth years from Kirian years, the formula is `Earth years = Kirian years * (204.20 / 365.25)`.
+To calculate Kirian years from Earth years, the formula is `Kirian years = Earth years * (365.25 / 204.20)`.
 
 ![[NEED_UPDATE_KirayOrbit.png|300]]
 *Map of Kiray orbiting Kete (Needs Update)*
@@ -35,9 +35,9 @@ To calculate Kirian years from Earth years, the formula is `Kirian years = Earth
 
 ### Interaction with Kete
 
-Kiray orbits [[Kete]] at a distance of around 700,000 kilometers in a prograde direction, far enough that Kete's gravity does not destroy Kiray's oceans, but close enough to dominate its sky and its tides. At this distance, Kiray completes one orbit of Kete about every 86.5 hours. Because Kiray is tidally locked to Kete, this orbit is also its day: one full rotation takes 86.5 hours, or roughly three and a half Earth days, and one hemisphere permanently faces Kete while the other never sees it. At 0.6216 AU, a year on Kiray is approximately 204 Earth days, or about 57 Kiray days.
+Kiray orbits [[Kete]] at a distance of around 700,000 kilometers in a prograde direction, far enough that Kete's gravity does not destroy Kiray's oceans, but close enough to dominate its sky and its tides. At this distance, Kiray completes one orbit of Kete about every 86.5 hours. Because Kiray is tidally locked to Kete, this orbit is also its day: one full rotation takes 86.5 hours, or roughly three and a half Earth days, and one hemisphere permanently faces Kete while the other never sees it. At 0.6280 AU, a year on Kiray is approximately 204 Earth days, or about 57 Kiray days.
 
-On the Kete-facing hemisphere, Kete hangs fixed in the sky, appearing roughly 20 times larger than Earth's moon, or about 10-12 degrees wide. The night here is never fully dark, sunlight reflecting off Kete's clouds casts a soft orange and purple glow across the sky. Tides on this hemisphere are also stronger, held in a permanent bulge beneath Kete.
+On the Kete-facing hemisphere, Kete hangs fixed in the sky, appearing about 12 degrees wide, roughly 24 times the width of Earth's moon. The night here is never fully dark, sunlight reflecting off Kete's clouds casts a soft orange and purple glow across the sky. Tides on this hemisphere are also stronger, held in a permanent bulge beneath Kete.
 
 On the anti-Kete hemisphere, Kete is never visible. Nights here are truly dark, with a full field of stars, and tidal movement is gentler.
 
@@ -84,23 +84,30 @@ While visually striking, the radiation itself is largely stopped before it reach
 
 ## Atmosphere and Climate
 
-Overall, Kiray's atmosphere resembles Earth's, with a somewhat higher proportion of oxygen and more water vapor. Where Earth's humidity swings widely from 0-4% depending on location, Kiray is more consistently humid, ranging from 2-5%.
+Overall, Kiray's atmosphere resembles Earth's, with a slightly higher proportion of oxygen. About 2% of the air near the surface across the warm equatorial belt is water vapor, dropping below 0.1% over the frozen poles. Kiray's warm latitudes are kept humid by the many shallow seas and broken landmasses.
 
-| Constituent | Symbol | Kiray % Composition | Earth % Composition |
+| Constituent | Symbol | Kiray % Composition (Dry Air) | Earth % Composition (Dry Air) |
 |---|---|---|---|
-| Molecular Nitrogen | N₂ | 71.56% | 78.08% |
+| Molecular Nitrogen | N₂ | 75.00% | 78.08% |
 | Molecular Oxygen | O₂ | 24.00% | 20.95% |
+| Argon | Ar | 0.93% | 0.93% |
 | Carbon Dioxide | CO₂ | 0.04% | 0.04% |
-| Water Vapor | H₂O | ~3.37% | ~3.00% |
 | Trace Gases | Ne, He, Kr, CH₄ | 0.03% | 0.0026% |
+| Water Vapor (near surface, not part of dry air) | H₂O | under 0.1% to ~2.4% | ~0% to 4% |
 
-Kiray's average surface pressure is approximately 1.25 bar, about 120% of Earth's. This elevated pressure is maintained by long-term atmospheric retention, Kiray's strong magnetic field guards against loss, sustained volcanic outgassing constantly replenishes the air, and the planet's near-Earth gravity holds the thick atmosphere in place.
+Kiray's average surface pressure is approximately 1.25 bar, about 123% of Earth's. This elevated pressure is maintained by long-term atmospheric retention, Kiray's strong magnetic field guards against loss, sustained volcanic outgassing constantly replenishes the air, and the planet's near-Earth gravity holds the thick atmosphere in place.
 
-The denser atmosphere raises the air's capacity to hold both heat and water, producing consistently high humidity, frequent storms, and heavy cloud cover, especially over seas. Skyris delivers noticeably less light than the Sun does to Earth, and without an atmosphere Kiray would be a frozen world. Its thick, humid air does the heavy lifting instead, the abundant water vapor traps warmth far more effectively than Earth's thinner atmosphere manages, lifting the surface into habitable temperatures.
+The denser atmosphere efficiently carries heat and fuels frequent storms and heavy cloud cover, especially over seas. Skyris provides nearly the same amount of energy to Kiray as the Sun does to Earth, although its light is warmer in color. Kiray's greenhouse effect is slightly stronger than Earth's, mostly because its denser air traps more heat, which offsets the lost sunlight during the daily eclipse.
 
-The warmth is not spread evenly. Because Kiray has almost no axial tilt, its poles never receive a summer and stay permanently cold, which produces a steeper temperature gradient from equator to pole than Earth's. The global average surface temperature is approximately 19°C, but the equatorial belt, where the great majority of Kiray's life is concentrated, typically sits between 25°C and 35°C, while only the high latitudes remain cold. Kiray is best understood not as a uniformly warm world, but as a tropical band sandwiched between frozen caps.
+However, Kiray is not uniformly warm on average. Because Kiray has almost no axial tilt, its poles never have a summer and stay permanently frozen, while the equator receives ample sunlight. The temperature gradient from equator to pole is similar to Earth's because Kiray's slow rotation and dense atmosphere carry heat toward the poles more effectively than Earth's atmosphere.
 
-Kiray was not always this warm. Early in the biosphere's development, before dense vegetation had spread, the young moon was held above freezing by volcanic greenhouse gases alone, and was cooler globally, with a genuine cold night everywhere. As flora developed, the rise of the initial dark teal and purple canopies changed the surface itself, replacing reflective bare ground with canopies that absorbed far more of Skyris's light. That warming increased evaporation from the shallow seas, and the added water vapor, which does much of the greenhouse work on Kiray, amplified it further. The result was a warming pushed forward by the advance of life itself, which reshaped the young biosphere. Modern Kiray is therefore warmer than the world its biology first evolved on, and the biosphere's earliest dominant traits were shaped in a climate that has since shifted.
+The global average surface temperature is approximately 15°C, nearly the same as Earth's. The equatorial belt, where most of Kiray's life is concentrated, averages about 26°C. Over the long day, anti-Kete land near the equator ranges from ~21°C before dawn to ~33°C in the late afternoon, while the Kete-facing seas are more consistent, around 24°C to 27°C. Afternoons rarely get hotter than this because the heat causes storm clouds to develop. The air typically stays dry enough for evaporative cooling to work, even on the hottest afternoons.
+
+As the latitude moves away from the equator, temperatures fall to about 20°C at 30 degrees latitude, and about 10°C at 45 degrees. At a latitude of about 60 degrees, the average temperature is below freezing. This band receives no summer and remains permanently frozen. The poles themselves are frozen at an average of -20°C. 
+
+As a result, Kiray's temperature gradient is best understood as a warm tropical band, which cools along temperate middle latitudes, with frozen polar caps.
+
+Kiray was not always this warm. Early in the biosphere's development Skyris was a dimmer star. Before dense vegetation had spread, the young moon was held above freezing mainly by volcanic greenhouse gases. It was cooler globally, with a cold night everywhere. As flora developed, the initial dark teal and purple vegetation replaced reflective bare ground and sediment with more heat-absorptive surfaces. That warming increased evaporation from the shallow seas, and the added water vapor amplified it further. Over a long period of time, Skyris gradually brightened and the darkening surface absorbed increasing amounts of light, warming Kiray globally. Modern Kiray is therefore warmer than the world its biology first evolved on, and the biosphere's earliest dominant traits were shaped in a climate that has since shifted.
 
 The oxygen level, at 24%, is high enough to support large, active organisms, but also makes fire an important environmental force. Biologically, the denser atmosphere increases oxygen availability without exceeding safe limits for native life. The higher pressure also shapes the physical environment. It produces slower, more forceful winds, sound carries more efficiently, and light scatters more strongly through the haze of suspended particles. That haze is a persistent feature of Kiray's atmosphere, made up of volcanic dust and more abundantly, fine biological aerosols and reproductive spores shed by the planet's flora.
 
@@ -122,7 +129,7 @@ The salinity of Kiray's oceans is approximately 4.8%, compared to Earth's 3.5%. 
 
 Kiray experiences high global precipitation, driven by warm surface temperatures, high atmospheric water content, and strong tidal and atmospheric circulation. Evaporation from the shallow seas is rapid, and storms carry that moisture efficiently inland, producing frequent rainfall across much of the planet. Precipitation is heaviest near coastlines and along elevation gradients, where moist air is forced upward.
 
-This rainfall is not spread evenly through the day, it is timed periodically by the progression of the long day. Across the forty-four-hour afternoon, the sustained heating of humid air accumulates a lot of energy, which breaks out in the late afternoon and evening as intense storms. A given location therefore passes through a single prolonged storm phase once per long day. Between these episodes the air rarely dries out completely; the quieter hours often bring fog, heavy dew, and low drizzle rather than clear skies, especially near the equator and nearer to the kete-facing side.
+This rainfall is not spread evenly through the day, it is timed periodically by the progression of the long day. Across the forty-four-hour afternoon, the sustained heating of humid air accumulates a lot of energy, which breaks out in the late afternoon and evening as intense storms. A given location therefore passes through a single prolonged storm phase once per long day. Between these episodes the air rarely dries out completely; the quieter hours often bring fog, heavy dew, and low drizzle rather than clear skies, especially near the equator and nearer to the Kete-facing side.
 
 The rhythm differs sharply between hemispheres. The ocean-dominated Kete-facing side is cloudier and more thermally stable, producing more steady and reliable rain, and the cooling of the noon eclipse often triggers a second brief episode of showers. The anti-Kete side swings between extremes, with long afternoons drying out enough to carry wildfire, and the energy that builds during the day releasing in fewer but far more violent storms, separated by rainless periods.
 
@@ -170,26 +177,26 @@ The long day also drives the weather. Forty-four hours of accumulating heat buil
 
 The tidal locking of Kiray to Kete divides the planet into distinct ecological zones. They are not divided by temperature, which is governed by latitude, but by what happens during the long night, and by a peculiar consequence of the daily eclipse.
 
-[TODO]
+[TODO]  
 *High Level Diagram of Hemispheric Ecosystems*
 
 #### The Kete-Facing Hemisphere
 
-On the near side, Kete hangs fixed in the sky. When the sun stands overhead, Kete is a dark disc, and when the sun is behind the far side of the planet, Kete is fully illuminated. The near side's night is therefore at its brightest at midnight, when Kete is brightly visible overhead.
+On the Kete-facing side, Kete hangs fixed in the sky. When the sun stands overhead, Kete is a dark disc, and when the sun is shining on the anti-Kete side, Kete is fully illuminated. The Kete-facing side's night is therefore at its brightest at midnight, when Kete is brightly visible overhead.
 
-Directly beneath Kete, that light is about 0.5% of full daylight, about 2000 times the brightness of a full Moon on Earth, comparable to a sunset. It is not enough light for plants to grow, but rather is almost exactly enough to break even. Near-side flora hover around the point where photosynthesis balances against respiration, which means they can idle through the night instead of burning reserves to survive it. They carry far less storage tissue than far-side flora and never truly go dormant. Freed from the nightly deficit, they compete instead on continuous, thin-margin growth, producing dense, layered canopies that never rest. They compete entirely for light and space, not for the reserves to outlast the darkness. 
+Directly beneath Kete, that light is about 0.5% of full daylight, about 2000 times the brightness of a full Moon on Earth, comparable to a sunset. It is not enough light for plants to grow, but rather is almost exactly enough to break even. Kete-facing flora hover around the point where photosynthesis balances against respiration, which means they can idle through the night instead of burning reserves to survive it. They carry far less storage tissue than anti-Kete flora and never truly go dormant. Freed from the nightly deficit, they compete instead on continuous, thin-margin growth, producing dense, layered canopies that never rest. They compete entirely for light and space, not for the reserves to outlast the darkness. 
 
-Though the near side has bright nights, its darkest hours are actually at midday. Because the eclipse is locked to the same face, Kete passing in front of Skyris always occurs at local noon. For around three hours, the sun disappears behind Kete and the hemisphere is bathed in a deep red gloom, lit only by sunlight refracted through Kete's atmosphere, an orange ring around the black disc in the sky.
+Though the Kete-facing side has bright nights, its darkest hours are actually at midday. Because the eclipse is locked to the same face, Kete passing in front of Skyris always occurs at local noon. For around three hours, the sun disappears behind Kete and the hemisphere is bathed in a deep red gloom, lit only by sunlight refracted through Kete's atmosphere, an orange ring around the black disc in the sky.
 
-The noon eclipse strips the near side of roughly a tenth of its total sunlight, and combined with the hemisphere's ocean-dominated surface, it leaves the Kete-facing side cooler, cloudier, and far more thermally stable than the far side. It is also a reliable window of darkness in the middle of the brightest part of the cycle, and Kiray's life takes advantage of it. Several flora species time spore release to the sharp drop in temperature, and a range of predators have become eclipse specialists, hunting in the brief gloom when the daylight fauna are briefly blinded and the night fauna have not yet emerged.
+The noon eclipse strips the Kete-facing side of roughly a tenth of its total sunlight, and combined with the hemisphere's ocean-dominated surface, it leaves the Kete-facing side cooler, cloudier, and far more thermally stable than the anti-Kete side. It is also a reliable window of darkness in the middle of the brightest part of the cycle, and Kiray's life takes advantage of it. Several flora species time spore release to the sharp drop in temperature, and a range of predators have become eclipse specialists, hunting in the brief gloom when the daylight fauna are briefly blinded and the night fauna have not yet emerged.
 
 #### The Anti-Kete Hemisphere
 
-The far side never sees Kete, and its nights are fully dark. It experiences forty-four hours of true darkness broken only by starlight, and nothing can photosynthesize during this period.
+The anti-Kete side never sees Kete, and its nights are fully dark. It experiences forty-four hours of true darkness broken only by starlight, and nothing can photosynthesize during this period.
 
-This forces the far side's flora to invest heavily in energy storage, and species with deep tubers and swollen stems grow extensively here. They become dormant each night, resting and drawing on reserves until dawn. Growth through the long day is faster here than on the near side, since the far side receives no eclipse and roughly a tenth more sunlight, but much of that surplus is spent surviving the dark. The result is a hemisphere of rapid, periodic growth, rather than the near side's continuous slow growth.
+This forces the anti-Kete side's flora to invest heavily in energy storage, and species with deep tubers and swollen stems grow extensively here. They become dormant each night, resting and drawing on reserves until dawn. Growth through the long day is faster here than on the Kete-facing side, since the anti-Kete side receives no eclipse and roughly a tenth more sunlight, but much of that surplus is spent surviving the dark. The result is a hemisphere of rapid, periodic growth, rather than the Kete-facing side's continuous slow growth.
 
-The far side also holds most of Kiray's exposed, low-lying land, which amplifies everything. Land heats and cools far faster than the near side's ocean-dominated surface, so the far side swings hard between a hot, drying forty-four-hour afternoon and a cold night. That long dry afternoon is when Kiray's wildfires overwhelmingly occur.
+The anti-Kete side also holds most of Kiray's exposed, low-lying land, which amplifies everything. Land heats and cools far faster than the Kete-facing side's ocean-dominated surface, so the anti-Kete side swings hard between a hot, drying forty-four-hour afternoon and a much cooler night. That long dry afternoon is when Kiray's wildfires overwhelmingly occur.
 
 Fauna here depend less on vision. Scent, hearing, and vibration sense are well developed.
 
@@ -199,19 +206,19 @@ Between the two hemispheres lies a band roughly twelve hundred kilometers wide, 
 
 This band is transitional in every sense. Its nights are dim rather than dark, since at midnight Kete shows only a half-lit face and sits low at the horizon, delivering a small fraction of the light that falls on the sub-Kete point. Flora here have blended the two strategies of either hemisphere, carrying modest energy reserves and idling at a low but positive margin.
 
-Dawns here are the strangest on the planet. Along the half of the band where Kete sits on the Eastern horizon, the sun rises directly behind the disc of Kete and takes nearly 90 minutes to climb clear of its upper edge, so the day begins already eclipsed. Along the opposite half, where Kete sits on the Western horizon, the sun sets into the disc and vanishes early.
+Dawns here are the strangest on the planet. Along the half of the band where Kete sits on the Eastern horizon, the sun rises directly behind the disc of Kete and takes about an hour and a half to climb clear of its upper edge, so the day begins already eclipsed. Along the opposite half, where Kete sits on the Western horizon, the sun sets into the disc and vanishes early.
 
 Because Kete never moves from the horizon here, this band is the one region of Kiray marked by a permanent landmark, and a great many species orient by it, some even using it to migrate between hemispheres.
 
 ### Photosynthesis and Pigmentation
 
-Kiray's plant colors are governed by the light that actually reaches them. Skyris is a cool, slightly red-shifted star, so it delivers less high-energy blue light and an abundance of orange light. As that light passes through Kiray's atmosphere, blue is scattered away and some red is absorbed by the heavy water vapor, leaving orange as the most plentiful color at the surface, with green and yellow comparatively scarce.
+Kiray's plant colors are governed by the light that actually reaches them. Skyris is a cool, slightly red-shifted star, so it delivers less high-energy blue light and an abundance of orange light. As that light passes through Kiray's atmosphere, blue is scattered away and some red is absorbed by water vapor in the humid lower air, leaving orange as the most plentiful color at the surface, with green and yellow comparatively scarce.
 
 The most productive strategy, therefore, is to absorb that abundant orange light, which makes the pigment reflect the opposite end of the spectrum and appear **teal**. Teal is the dominant color of Kiray's vegetation in many regions. 
 
 **Purple** vegetation is a secondary strategy, common in shaded understories and deeper water where light is dim and its color has shifted. Purple pigments capture the specific wavelengths that filter down into these low-light niches, so purple tends to mark the places sunlight struggles to reach, beneath dense canopies, on forest floors, and in the twilight depths of the shallow seas. It is most abundant on the Kete-facing hemisphere, where forest canopies are dense and persistent, casting deep and permanent shade.
 
-**Orange** vegetation is the rarest strategy and the least productive. An orange plant reflects the light Kiray has most of, so it is not trying to collect energy at all. Instead, orange coloration appears where plants have reason to *reject* light rather than gather it, most notably in high-sunlight, fire-prone environments such as exposed coastal zones and flat plains. In these regions, intense light risks damaging plant tissues, and fire is a constant threat, so hardy, fire-adapted species trade efficiency for protection. Orange strategies are most common on the anti-Kete hemisphere, where the absence of the noon eclipse delivers Kiray's most intense midday light onto its most fire-prone ground; the exposed far-side coasts, bright and drying through the long afternoon, are where light-rejecting flora dominate most completely. Orange pigments also appear in non-photosynthetic roles across the biosphere, as bioluminescent lures and signaling colors used to attract pollinators, spore-dispersers, and other useful organisms.
+**Orange** vegetation is the rarest strategy and the least productive. An orange plant reflects the light Kiray has most of, so it is not trying to collect energy at all. Instead, orange coloration appears where plants have reason to *reject* light rather than gather it, most notably in high-sunlight, fire-prone environments such as exposed coastal zones and flat plains. In these regions, intense light risks damaging plant tissues, and fire is a frequent threat, so hardy, fire-adapted species trade efficiency for protection. Orange strategies are most common on the anti-Kete hemisphere, where the absence of the noon eclipse delivers Kiray's most intense midday light onto its most fire-prone ground; the exposed anti-Kete coasts, bright and drying through the long afternoon, are where light-rejecting flora dominate most completely. Orange pigments also appear in non-photosynthetic roles across the biosphere, as bioluminescent lures and signaling colors used to attract pollinators, spore-dispersers, and other useful organisms.
 
 An important detail however, in the seas, the abundant orange light is absorbed rapidly as depth increases. In regions deeper than 10-20 meters it is fully absorbed, so marine photosynthesizers have evolved to harvest the remaining scarce high-energy blue light instead, and therefore reflect dark purple and reddish hues. As the seas go deeper below 175 meters, this remaining light cannot penetrate to the sea floor, so photosynthesizing flora species abandon rooted strategies and switch to drifting forms so they can be carried above this depth. 
 
@@ -221,13 +228,13 @@ Despite this, there are still widespread flora species in the deeper seas which 
 
 Kiray's atmosphere carries a persistent background of reproductive spores, shed by canopy megaflora and widespread understory flora. These particles typically measure 1-5 micrometers across and stay aloft due to the planet's dense, humid air and the continuous updrafts of its frequent storms.
 
-This spore load is continuously replenished through low-level shedding from living vegetation and through much larger bulk releases during periods of rapid growth, wildfires, rainfall, and pressure changes. It is this biological haze that gives Kiray's sky its characteristic orange hue. When rain sweeps the lower atmosphere clean, the sky clears to a pale, luminous blue-violet, the true color of the air once the particulates are washed out. But these clear skies are temporary. Within hours, and often accelerated by the spore-storms that follow rainfall, plant activity refills the air and the orange haze returns.
+This spore load is continuously replenished through low-level shedding from living vegetation and through much larger bulk releases during periods of rapid growth, wildfires, rainfall, and pressure changes. It is this biological haze that gives Kiray's sky its characteristic orange hue, because the spores absorb blue light and pass orange. When rain sweeps the lower atmosphere clean, the sky clears to a pale, luminous blue-violet, the true color of the air once the particulates are washed out. But these clear skies are temporary. Within hours, and often accelerated by the spore-storms that follow rainfall, plant activity refills the air and the orange haze returns.
 
-The spores are largely harmless to native Kirian life, whose physiology has adapted to filter and flush them while breathing. Native organisms simply strain the particulates from the air as a normal part of respiration. Non-native organisms, such as Earthen mammals, are far more vulnerable. The moist mucous membranes of the airways and lungs inadvertently collect the spores where they irritate the tissue and interfere with oxygen exchange. Short exposures are not lethal and can be recovered from, but prolonged breathing of unfiltered air leads to increasing inflammation and eventually serious respiratory distress, which can prove fatal in Kiray's hot, humid climate.
+The spores are largely harmless to native Kirian life, whose physiology has adapted to filter and flush them while breathing. Native organisms simply strain the particulates from the air as a normal part of respiration. Non-native organisms, such as Earthen mammals, are far more vulnerable. The moist mucous membranes of the airways and lungs inadvertently collect the spores where they irritate the tissue and interfere with oxygen exchange. Short exposures are not lethal and can be recovered from, but prolonged breathing of unfiltered air leads to increasing inflammation and eventually serious respiratory distress, which can prove fatal in Kiray's warm, humid climate.
 
 ### Fire Ecology
 
-Kiray's elevated oxygen lowers the threshold for combustion, so fires burn hotter and faster once they start. Natural ignition comes from volcanic activity, frequent lightning, and localized heat from rapid organic decomposition. At the same time, the planet's high humidity and frequent storms suppress fire across much of the surface, preventing continuous fire seasons. On Kiray, wildfires are a natural hazard, dangerous and locally destructive, but episodic rather than constant. Because Kiray has no notable seasons, the right conditions often arise daily, concentrated in the evening half of the day, and largely on the exposed transition band and far-side continents, where conditions are drier and more exposed.
+Kiray's elevated oxygen lowers the threshold for combustion, so fires burn hotter and faster once they start. Natural ignition comes from volcanic activity, frequent lightning, and localized heat from rapid organic decomposition. At the same time, the planet's high humidity and frequent storms suppress fire across much of the surface, preventing continuous fire seasons. On Kiray, wildfires are a natural hazard, dangerous and locally destructive, but episodic rather than constant. Because Kiray has no notable seasons, the right conditions often arise daily, concentrated in the evening half of the day, and largely on the exposed anti-Kete continents, where conditions are drier.
 
 Because fires consume available fuel quickly, their spread is limited by how dense the underbrush is and how recently an area last burned. This produces a landscape shaped by frequent but uneven fire disturbance, favoring organisms that can either withstand brief exposure or quickly recolonize burned ground.
 
@@ -258,3 +265,7 @@ Native fauna are far less affected. Many possess fine, gill-like respiratory fil
 - Kiray's 86.5-hour day is the orbital period around [[Kete]] according to Kepler's third law. It is the day because Kiray is tidally locked.
 - Kiray's ~88-hour sunrise-to-sunrise day is calculated from `1/T_syn = 1/T_orbit - 1/T_year`.
 - Kiray's 204.20-day year is [[Kete|Kete's]] period around [[Skyris]].
+- Kiray receives the same sunlight as Earth, about 1,361 W/m^2, before the daily eclipse.
+- Kiray's temperatures are estimated with a simple latitude-based energy balance model, calibrated against Earth's real temperatures. They are approximate to within a few degrees.
+- Kiray's water vapor figures are calculated from the saturation vapor pressure at 1.25 bar, using an equatorial dew point of about 23°C to 24°C.
+- Kiray's dry air composition adds up to 100%.
