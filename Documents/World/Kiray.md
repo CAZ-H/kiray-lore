@@ -170,6 +170,7 @@ The long day also drives the weather. Forty-four hours of accumulating heat buil
 
 The tidal locking of Kiray to Kete divides the planet into distinct ecological zones. They are not divided by temperature, which is governed by latitude, but by what happens during the long night, and by a peculiar consequence of the daily eclipse.
 
+[TODO]
 *High Level Diagram of Hemispheric Ecosystems*
 
 #### The Kete-Facing Hemisphere
@@ -246,3 +247,14 @@ Native fauna are far less affected. Many possess fine, gill-like respiratory fil
 
 ---
 *<small>Kiray Archive // KA-SUR-KIR // @ CS Harrow // Confidential</small>*
+
+---
+
+**References (Meta)**
+
+- Earth values are IUGG mean radius and IAU nominal mass ([Prša et al. 2016](https://iopscience.iop.org/article/10.3847/0004-6256/152/2/41/pdf)).
+- Kiray's radius, mass, atmospheric composition, and distance from [[Kete]] are chosen.
+- Kiray's density is calculated from `M/V`; gravity from `g = GM/R^2`.
+- Kiray's 86.5-hour day is the orbital period around [[Kete]] according to Kepler's third law. It is the day because Kiray is tidally locked.
+- Kiray's ~88-hour sunrise-to-sunrise day is calculated from `1/T_syn = 1/T_orbit - 1/T_year`.
+- Kiray's 204.20-day year is [[Kete|Kete's]] period around [[Skyris]].

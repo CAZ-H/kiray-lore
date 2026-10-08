@@ -32,7 +32,7 @@ In order from the sun, the Skiedonic people have recorded the bodies in the syst
 	- Siirk hosts Si, a small barren moon. 
 4. **Vol:** a massive, deep blue gas giant, almost twice the diameter of Kete.
 	- Vol hosts the smaller Avo'ton and the larger Avo'rii, two barren moons. The names of these moons simply reflect their numbered positions in [[Skiedonic_Numeral_System|Skiedonic]].
-5. **Avo:** a deep striated red gas giant with particulate rings, slightly smaller than Kete. 
+5. **Avo:** a deep striated red gas giant with particulate rings, slightly smaller than Kete. The name also seems to reflect naming patterns from the numeral system.
 
 Finally, a thin, stable belt of asteroids and space debris encircles the Skyris system.   
 
@@ -41,3 +41,16 @@ Finally, a thin, stable belt of asteroids and space debris encircles the Skyris 
 
 ---
 *<small>Kiray Archive // KA-SUR-SKY // @ CS Harrow // Confidential</small>*
+
+---
+
+**References (Meta)**
+
+- Sol values are IAU nominal ([Prša et al. 2016](https://iopscience.iop.org/article/10.3847/0004-6256/152/2/41/pdf)). Sol's mass is calculated from the nominal `GM` divided by the CODATA value of `G`.
+- Skyris is modelled on [HD 97658](https://science.nasa.gov/exoplanet-catalog/hd-97658-b/), a real K1V star. All of Skyris's values are within the published error margins.
+- Skyris's spectral class reflects [Mamajek's dwarf sequence](https://www.pas.rochester.edu/~emamajek/EEM_dwarf_UBVIJHK_colors_Teff.txt). Skyris is small for a K1V star, which is typical of metal-poor stars.
+- Skyris's temperature and radius are chosen.
+- Skyris's luminosity is calculated from the Stefan-Boltzmann law, `L = 4 * pi * R^2 * sigma * T^4`.
+- Skyris's mass is calculated from the mass-luminosity relation, `L = M^4` in solar units.
+- Skyris's peak wavelength is calculated from Wien's law, `wavelength = b/T`.
+- Skyris's habitable zone is Sol's 0.95 - 1.37 AU, scaled by `sqrt(L)`.
